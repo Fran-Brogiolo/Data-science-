@@ -1,4 +1,4 @@
-﻿Código aeropuerto,Nombre aeropuerto,País,Ciudad
+﻿Código_aeropuerto,Nombre_aeropuerto,Pais,Ciudad
 ABV,Nnamdi Azikiwe International Airport,Nigeria,Abuja
 AEP,Aeroparque Jorge Newbery,Argentina,Buenos Aires
 AFA,San Rafael Airport,Argentina,San Rafael
@@ -117,7 +117,7 @@ NEC,Necochea Airport,Argentina,Necochea
 NQN,Presidente Perón International Airport,Argentina,Neuquén
 OGG,Kahului Airport,United States,Kahului
 ORD,O'Hare International Airport,United States,Chicago
-OSL,"Oslo Airport, Gardermoen",Norway,Oslo
+OSL,Oslo Airport Gardermoen,Norway,Oslo
 OTN,Ed-Air Airport,United States,Oaktown
 PAC,Marcos A. Gelabert International Airport,Panama,Panama City
 PAZ,El Tajín National Airport,Mexico,Poza Rica
@@ -186,7 +186,7 @@ TNA,Jinan Yaoqiang International Airport,China,Jinan
 TNO,Tamarindo Airport,Costa Rica,Tamarindo
 TPE,Taiwan Taoyuan International Airport,Taiwan,Taipei
 TRC,Torreón International Airport,Mexico,Torreón
-TRD,"Trondheim Airport, Værnes",Norway,Trondheim
+TRD,Trondheim Airport Værnes,Norway,Trondheim
 TUC,Teniente General Benjamín Matienzo International Airport,Argentina,San Miguel de Tucumán
 TUL,Tulsa International Airport,United States,Tulsa
 TXL,Berlin Tegel Airport,Germany,Berlin
