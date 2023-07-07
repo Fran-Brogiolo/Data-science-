@@ -62,13 +62,13 @@ FTE,Argentina,El Calafate,-50.2803,-72.0531
 FXE,Estados Unidos,Fort Lauderdale,26.1973,-80.1707
 GEZ,Alemania,Gelsenkirchen,51.5757,7.0568
 GGY,Reino Unido,Guernsey,49.4351,-2.6053
-GIG,Brasil,Río de Janeiro,-22.8124,-43.2503
+GIG,Brazil,Río de Janeiro,-22.8124,-43.2503
 GNR,Portugal,Gavião,39.4641,-7.9351
 GPO,Argentina,General Pico,-35.6961,-63.7584
-GRU,Brasil,São Paulo,-23.4356,-46.4731
+GRU,Brazil,São Paulo,-23.4356,-46.4731
 GVA,Suiza,Ginebra,46.2381,6.1086
 GYE,Ecuador,Guayaquil,-2.1576,-79.8836
-GYN,Brasil,Goiania,-16.6315,-49.2207
+GYN,Brazil,Goiania,-16.6315,-49.2207
 HAV,Cuba,La Habana,22.9892,-82.4093
 HLI,Australia,Hollister,36.857,-121.411
 HOU,Estados Unidos,Houston,29.6454,-95.2796
@@ -77,7 +77,7 @@ IAD,Estados Unidos,Washington D.C.,38.9445,-77.4558
 IAH,Estados Unidos,Houston,29.983,-95.3397
 IBZ,España,Ibiza,38.8729,1.3731
 IGR,Argentina,Puerto Iguazú,-25.7373,-54.4731
-IGU,Brasil,Foz do Iguaçu,-25.5972,-54.4872
+IGU,Brazil,Foz do Iguaçu,-25.5972,-54.4872
 IPC,Chile,Isla de Pascua,-27.1648,-109.421
 IQQ,Chile,Iquique,-20.5352,-70.1813
 IRJ,Argentina,La Rioja,-29.3816,-66.795
@@ -98,7 +98,7 @@ LPG,Paraguay,Ciudad del Este,-25.4545,-54.8422
 LRM,República Dominicana,La Romana,18.4311,-68.9714
 LUQ,Argentina,San Luis,-33.2749,-66.3586
 MAD,España,Madrid,40.472,-3.5608
-MAO,Brasil,Manaus,-3.0408,-60.0497
+MAO,Brazil,Manaus,-3.0408,-60.0497
 MCO,Estados Unidos,Orlando,28.4314,-81.3081
 MDE,Colombia,Medellín,6.1717,-75.4286
 MDQ,Argentina,Mar del Plata,-37.9342,-57.5734
@@ -107,11 +107,11 @@ MEX,México,Ciudad de México,19.4363,-99.072
 MIA,Estados Unidos,Miami,25.7932,-80.2906
 MJR,Argentina,Marajó,-2.2463,-49.948
 MLG,Indonesia,Malang,-7.9676,112.632
-MOR,Brasil,Morristown,40.7992,-74.4142
+MOR,Brazil,Morristown,40.7992,-74.4142
 MPN,Reino Unido,Islas Malvinas,-51.8225,-58.4472
 MVD,Uruguay,Montevideo,-34.8389,-56.0328
 NAS,Bahamas,Nassau,25.0389,-77.4662
-NAT,Brasil,Natal,-5.9114,-35.2478
+NAT,Brazil,Natal,-5.9114,-35.2478
 NCJ,Argentina,San Julián,-49.3068,-67.8026
 NEC,Argentina,Necochea,-38.4833,-58.8172
 NIN,Australia,Nintendinnie,-27.8447,117.3339
@@ -136,7 +136,7 @@ PMV,Venezuela,Porlamar,10.9129,-63.9674
 PMY,Argentina,Puerto Madryn,-42.7591,-65.1023
 PNR,Argentina,Paso de los Libres,-29.6894,-57.1522
 PNT,Argentina,Puerto Natales,-51.6714,-72.5281
-POA,Brasil,Porto Alegre,-29.9939,-51.1711
+POA,Brazil,Porto Alegre,-29.9939,-51.1711
 POS,Trinidad y Tobago,Puerto España,10.5954,-61.3372
 PRA,Argentina,Paraná,-31.7946,-60.4806
 PSS,Argentina,Posadas,-27.3858,-55.9707
@@ -148,7 +148,7 @@ PUQ,Chile,Punta Arenas,-53.0027,-70.8547
 QLV,Argentina,Villa Constitución,-33.2314,-60.3294
 RCQ,Argentina,Reconquista,-29.2108,-59.6934
 RCU,Arabia Saudita,Rafha,29.6205,43.4944
-REC,Brasil,Recife,-8.1266,-34.924
+REC,Brazil,Recife,-8.1266,-34.924
 REL,Argentina,Trelew,-43.2106,-65.2706
 RES,Argentina,Resistencia,-27.4513,-59.0561
 RGA,Argentina,Río Grande,-53.7772,-67.7494
@@ -181,11 +181,11 @@ SLA,Argentina,Salta,-24.0072,-65.4492
 SNC,Argentina,Sauce Viejo,-31.7117,-60.8117
 SRC,Argentina,San Rafael,-34.5883,-68.4034
 SRZ,Bolivia,Santa Cruz de la Sierra,-17.8118,-63.1715
-SSA,Brasil,Salvador,-12.9101,-38.3312
+SSA,Brazil,Salvador,-12.9101,-38.3312
 STD,Ecuador,Santo Domingo,0.9242,-79.6547
 STR,Alemania,Stuttgart,48.6908,9.1938
 STY,Paraguay,Asunción,-25.3857,-57.5709
-SUZ,Brasil,Santa Cruz,-19.0181,-57.6722
+SUZ,Brazil,Santa Cruz,-19.0181,-57.6722
 SVJ,Noruega,Svolvær,68.2429,14.6692
 SVO,Rusia,Moscú,55.9726,37.4146
 SXM,Sint Maarten,Philipsburg,18.0409,-63.1089
@@ -197,19 +197,19 @@ TFS,España,Tenerife,28.0443,-16.5725
 TLC,México,Toluca,19.3371,-99.566
 TMB,Estados Unidos,Miami,25.6479,-80.4332
 TUC,Argentina,San Miguel de Tucumán,-26.8409,-65.104
-UAE,Brasil,São Paulo,-23.6261,-46.656
+UAE,Brazil,São Paulo,-23.6261,-46.656
 UAQ,Argentina,San Juan,-31.5717,-68.4182
 UIO,Ecuador,Quito,-0.1132,-78.3581
 ULA,Argentina,San Julián,-49.3068,-67.8026
 USH,Argentina,Ushuaia,-54.8433,-68.295
-VCP,Brasil,Campinas,-23.0074,-47.1345
+VCP,Brazil,Campinas,-23.0074,-47.1345
 VDM,Argentina,Viedma,-40.8644,-63.002
 VLC,España,Valencia,39.4891,-0.4816
-VLG,Brasil,Vilhena,-12.6953,-60.1281
+VLG,Brazil,Vilhena,-12.6953,-60.1281
 VME,Argentina,Villa Mercedes,-33.7467,-65.4589
 VMR,Argentina,Villa María,-32.3922,-63.2611
 VNO,Lituania,Vilna,54.6431,25.2798
-VTO,Brasil,Vitória,-20.2567,-40.2894
+VTO,Brazil,Vitória,-20.2567,-40.2894
 VVI,Bolivia,Santa Cruz de la Sierra,-17.6448,-63.1354
 ZPC,Chile,Pucón,-39.2833,-71.9
 ZRH,Suiza,Zúrich,47.4501,8.5618
