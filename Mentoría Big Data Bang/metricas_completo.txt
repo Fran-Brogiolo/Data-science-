@@ -1,0 +1,961 @@
+base_binaria,top_variables,type_encoding,sacar_pas_0,sacar_buenos_aires,minutos_retraso,balanceo,modelo,f1_score_retrasos,recal_retrasos,precision_retrasos,total_accuracy
+True,True,target,True,True,15,Oversampling,Decision Tree,0.251,0.536,0.164,0.646
+True,True,target,True,True,15,Smote,Decision Tree,0.243,0.436,0.169,0.7
+True,True,target,True,True,15,Oversampling,Random forest,0.251,0.538,0.163,0.644
+True,True,target,True,True,15,Smote,Random forest,0.245,0.446,0.169,0.695
+True,True,target,True,True,15,Oversampling,XG Boost,0.265,0.566,0.173,0.652
+True,True,target,True,True,15,Smote,XG Boost,0.263,0.469,0.182,0.708
+True,True,target,True,True,15,Oversampling,RegresiÃ³n logÃ­stica,0.265,0.526,0.177,0.676
+True,True,target,True,True,15,Oversampling,SGD,0.262,0.361,0.205,0.775
+True,True,target,True,True,15,Smote,RegresiÃ³n logÃ­stica,0.264,0.529,0.176,0.674
+True,True,target,True,True,15,Smote,SGD,0.262,0.36,0.205,0.774
+True,True,target,True,True,30,Oversampling,Decision Tree,0.174,0.503,0.105,0.671
+True,True,target,True,True,30,Smote,Decision Tree,0.167,0.372,0.108,0.744
+True,True,target,True,True,30,Oversampling,Random forest,0.172,0.501,0.104,0.667
+True,True,target,True,True,30,Smote,Random forest,0.17,0.382,0.109,0.743
+True,True,target,True,True,30,Oversampling,XG Boost,0.199,0.563,0.121,0.687
+True,True,target,True,True,30,Smote,XG Boost,0.195,0.402,0.129,0.77
+True,True,target,True,True,30,Oversampling,RegresiÃ³n logÃ­stica,0.208,0.502,0.132,0.737
+True,True,target,True,True,30,Oversampling,SGD,0.219,0.424,0.148,0.792
+True,True,target,True,True,30,Smote,RegresiÃ³n logÃ­stica,0.208,0.501,0.131,0.737
+True,True,target,True,True,30,Smote,SGD,0.219,0.424,0.148,0.792
+True,True,target,True,True,60,Oversampling,Decision Tree,0.108,0.508,0.06,0.695
+True,True,target,True,True,60,Smote,Decision Tree,0.106,0.281,0.066,0.829
+True,True,target,True,True,60,Oversampling,Random forest,0.108,0.517,0.061,0.692
+True,True,target,True,True,60,Smote,Random forest,0.108,0.288,0.066,0.827
+True,True,target,True,True,60,Oversampling,XG Boost,0.119,0.536,0.067,0.714
+True,True,target,True,True,60,Smote,XG Boost,0.125,0.291,0.08,0.853
+True,True,target,True,True,60,Oversampling,RegresiÃ³n logÃ­stica,0.132,0.537,0.075,0.745
+True,True,target,True,True,60,Oversampling,SGD,0.134,0.424,0.08,0.802
+True,True,target,True,True,60,Smote,RegresiÃ³n logÃ­stica,0.132,0.539,0.075,0.742
+True,True,target,True,True,60,Smote,SGD,0.134,0.424,0.08,0.802
+True,True,target,True,False,15,Oversampling,Decision Tree,0.268,0.545,0.177,0.66
+True,True,target,True,False,15,Smote,Decision Tree,0.263,0.456,0.185,0.709
+True,True,target,True,False,15,Oversampling,Random forest,0.268,0.548,0.178,0.659
+True,True,target,True,False,15,Smote,Random forest,0.267,0.469,0.186,0.706
+True,True,target,True,False,15,Oversampling,XG Boost,0.291,0.576,0.195,0.68
+True,True,target,True,False,15,Smote,XG Boost,0.29,0.476,0.208,0.734
+True,True,target,True,False,15,Oversampling,RegresiÃ³n logÃ­stica,0.283,0.531,0.193,0.692
+True,True,target,True,False,15,Oversampling,SGD,0.28,0.389,0.218,0.772
+True,True,target,True,False,15,Smote,RegresiÃ³n logÃ­stica,0.282,0.532,0.192,0.691
+True,True,target,True,False,15,Smote,SGD,0.279,0.389,0.218,0.771
+True,True,target,True,False,30,Oversampling,Decision Tree,0.187,0.487,0.116,0.696
+True,True,target,True,False,30,Smote,Decision Tree,0.184,0.372,0.122,0.762
+True,True,target,True,False,30,Oversampling,Random forest,0.187,0.489,0.115,0.694
+True,True,target,True,False,30,Smote,Random forest,0.184,0.377,0.122,0.76
+True,True,target,True,False,30,Oversampling,XG Boost,0.199,0.554,0.122,0.68
+True,True,target,True,False,30,Smote,XG Boost,0.207,0.375,0.143,0.793
+True,True,target,True,False,30,Oversampling,RegresiÃ³n logÃ­stica,0.213,0.489,0.136,0.74
+True,True,target,True,False,30,Oversampling,SGD,0.219,0.423,0.148,0.783
+True,True,target,True,False,30,Smote,RegresiÃ³n logÃ­stica,0.213,0.492,0.136,0.739
+True,True,target,True,False,30,Smote,SGD,0.219,0.423,0.148,0.783
+True,True,target,True,False,60,Oversampling,Decision Tree,0.112,0.475,0.063,0.711
+True,True,target,True,False,60,Smote,Decision Tree,0.097,0.257,0.06,0.817
+True,True,target,True,False,60,Oversampling,Random forest,0.111,0.474,0.063,0.708
+True,True,target,True,False,60,Smote,Random forest,0.097,0.259,0.06,0.816
+True,True,target,True,False,60,Oversampling,XG Boost,0.128,0.544,0.073,0.717
+True,True,target,True,False,60,Smote,XG Boost,0.125,0.273,0.081,0.853
+True,True,target,True,False,60,Oversampling,RegresiÃ³n logÃ­stica,0.142,0.521,0.082,0.759
+True,True,target,True,False,60,Oversampling,SGD,0.142,0.444,0.084,0.794
+True,True,target,True,False,60,Smote,RegresiÃ³n logÃ­stica,0.143,0.524,0.083,0.759
+True,True,target,True,False,60,Smote,SGD,0.142,0.447,0.084,0.793
+True,True,target,False,True,15,Oversampling,Decision Tree,0.25,0.532,0.164,0.647
+True,True,target,False,True,15,Smote,Decision Tree,0.243,0.436,0.169,0.7
+True,True,target,False,True,15,Oversampling,Random forest,0.251,0.537,0.164,0.645
+True,True,target,False,True,15,Smote,Random forest,0.245,0.446,0.169,0.695
+True,True,target,False,True,15,Oversampling,XG Boost,0.266,0.569,0.173,0.652
+True,True,target,False,True,15,Smote,XG Boost,0.263,0.469,0.182,0.708
+True,True,target,False,True,15,Oversampling,RegresiÃ³n logÃ­stica,0.265,0.529,0.177,0.675
+True,True,target,False,True,15,Oversampling,SGD,0.262,0.361,0.206,0.775
+True,True,target,False,True,15,Smote,RegresiÃ³n logÃ­stica,0.264,0.529,0.176,0.674
+True,True,target,False,True,15,Smote,SGD,0.262,0.36,0.205,0.774
+True,True,target,False,True,30,Oversampling,Decision Tree,0.174,0.512,0.105,0.664
+True,True,target,False,True,30,Smote,Decision Tree,0.167,0.372,0.108,0.744
+True,True,target,False,True,30,Oversampling,Random forest,0.174,0.513,0.105,0.663
+True,True,target,False,True,30,Smote,Random forest,0.17,0.382,0.109,0.743
+True,True,target,False,True,30,Oversampling,XG Boost,0.197,0.567,0.119,0.681
+True,True,target,False,True,30,Smote,XG Boost,0.195,0.402,0.129,0.77
+True,True,target,False,True,30,Oversampling,RegresiÃ³n logÃ­stica,0.208,0.501,0.131,0.736
+True,True,target,False,True,30,Oversampling,SGD,0.219,0.424,0.148,0.792
+True,True,target,False,True,30,Smote,RegresiÃ³n logÃ­stica,0.208,0.501,0.131,0.737
+True,True,target,False,True,30,Smote,SGD,0.219,0.424,0.148,0.792
+True,True,target,False,True,60,Oversampling,Decision Tree,0.108,0.515,0.061,0.694
+True,True,target,False,True,60,Smote,Decision Tree,0.106,0.281,0.066,0.829
+True,True,target,False,True,60,Oversampling,Random forest,0.109,0.517,0.061,0.694
+True,True,target,False,True,60,Smote,Random forest,0.108,0.288,0.066,0.827
+True,True,target,False,True,60,Oversampling,XG Boost,0.119,0.54,0.067,0.712
+True,True,target,False,True,60,Smote,XG Boost,0.125,0.291,0.08,0.853
+True,True,target,False,True,60,Oversampling,RegresiÃ³n logÃ­stica,0.132,0.537,0.075,0.745
+True,True,target,False,True,60,Oversampling,SGD,0.134,0.424,0.08,0.802
+True,True,target,False,True,60,Smote,RegresiÃ³n logÃ­stica,0.132,0.539,0.075,0.742
+True,True,target,False,True,60,Smote,SGD,0.134,0.424,0.08,0.802
+True,True,target,False,False,15,Oversampling,Decision Tree,0.269,0.545,0.178,0.661
+True,True,target,False,False,15,Smote,Decision Tree,0.263,0.456,0.185,0.709
+True,True,target,False,False,15,Oversampling,Random forest,0.269,0.55,0.178,0.66
+True,True,target,False,False,15,Smote,Random forest,0.267,0.469,0.186,0.706
+True,True,target,False,False,15,Oversampling,XG Boost,0.291,0.569,0.196,0.684
+True,True,target,False,False,15,Smote,XG Boost,0.29,0.476,0.208,0.734
+True,True,target,False,False,15,Oversampling,RegresiÃ³n logÃ­stica,0.283,0.527,0.193,0.695
+True,True,target,False,False,15,Oversampling,SGD,0.28,0.389,0.218,0.772
+True,True,target,False,False,15,Smote,RegresiÃ³n logÃ­stica,0.282,0.532,0.192,0.691
+True,True,target,False,False,15,Smote,SGD,0.279,0.389,0.218,0.771
+True,True,target,False,False,30,Oversampling,Decision Tree,0.185,0.499,0.114,0.684
+True,True,target,False,False,30,Smote,Decision Tree,0.184,0.372,0.122,0.762
+True,True,target,False,False,30,Oversampling,Random forest,0.184,0.5,0.113,0.681
+True,True,target,False,False,30,Smote,Random forest,0.184,0.377,0.122,0.76
+True,True,target,False,False,30,Oversampling,XG Boost,0.203,0.547,0.125,0.692
+True,True,target,False,False,30,Smote,XG Boost,0.207,0.375,0.143,0.793
+True,True,target,False,False,30,Oversampling,RegresiÃ³n logÃ­stica,0.212,0.491,0.136,0.738
+True,True,target,False,False,30,Oversampling,SGD,0.219,0.423,0.148,0.784
+True,True,target,False,False,30,Smote,RegresiÃ³n logÃ­stica,0.213,0.492,0.136,0.739
+True,True,target,False,False,30,Smote,SGD,0.219,0.423,0.148,0.783
+True,True,target,False,False,60,Oversampling,Decision Tree,0.108,0.477,0.061,0.699
+True,True,target,False,False,60,Smote,Decision Tree,0.097,0.257,0.06,0.817
+True,True,target,False,False,60,Oversampling,Random forest,0.108,0.476,0.061,0.699
+True,True,target,False,False,60,Smote,Random forest,0.097,0.259,0.06,0.816
+True,True,target,False,False,60,Oversampling,XG Boost,0.129,0.56,0.073,0.709
+True,True,target,False,False,60,Smote,XG Boost,0.125,0.273,0.081,0.853
+True,True,target,False,False,60,Oversampling,RegresiÃ³n logÃ­stica,0.142,0.52,0.082,0.76
+True,True,target,False,False,60,Oversampling,SGD,0.142,0.447,0.085,0.793
+True,True,target,False,False,60,Smote,RegresiÃ³n logÃ­stica,0.143,0.524,0.083,0.759
+True,True,target,False,False,60,Smote,SGD,0.142,0.447,0.084,0.793
+True,True,label,True,True,15,Oversampling,Decision Tree,0.254,0.54,0.166,0.647
+True,True,label,True,True,15,Smote,Decision Tree,0.242,0.446,0.166,0.69
+True,True,label,True,True,15,Oversampling,Random forest,0.253,0.543,0.165,0.646
+True,True,label,True,True,15,Smote,Random forest,0.245,0.456,0.167,0.688
+True,True,label,True,True,15,Oversampling,XG Boost,0.269,0.565,0.177,0.66
+True,True,label,True,True,15,Smote,XG Boost,0.264,0.473,0.183,0.708
+True,True,label,True,True,15,Oversampling,RegresiÃ³n logÃ­stica,0.243,0.414,0.172,0.714
+True,True,label,True,True,15,Oversampling,SGD,0.231,0.298,0.189,0.78
+True,True,label,True,True,15,Smote,RegresiÃ³n logÃ­stica,0.243,0.414,0.172,0.714
+True,True,label,True,True,15,Smote,SGD,0.231,0.298,0.189,0.78
+True,True,label,True,True,30,Oversampling,Decision Tree,0.179,0.511,0.109,0.677
+True,True,label,True,True,30,Smote,Decision Tree,0.172,0.385,0.111,0.744
+True,True,label,True,True,30,Oversampling,Random forest,0.178,0.513,0.107,0.672
+True,True,label,True,True,30,Smote,Random forest,0.175,0.395,0.112,0.743
+True,True,label,True,True,30,Oversampling,XG Boost,0.196,0.549,0.119,0.689
+True,True,label,True,True,30,Smote,XG Boost,0.197,0.411,0.129,0.768
+True,True,label,True,True,30,Oversampling,RegresiÃ³n logÃ­stica,0.19,0.462,0.119,0.727
+True,True,label,True,True,30,Oversampling,SGD,0.196,0.349,0.137,0.803
+True,True,label,True,True,30,Smote,RegresiÃ³n logÃ­stica,0.191,0.458,0.121,0.732
+True,True,label,True,True,30,Smote,SGD,0.196,0.349,0.137,0.803
+True,True,label,True,True,60,Oversampling,Decision Tree,0.11,0.515,0.061,0.698
+True,True,label,True,True,60,Smote,Decision Tree,0.105,0.296,0.064,0.818
+True,True,label,True,True,60,Oversampling,Random forest,0.109,0.515,0.061,0.697
+True,True,label,True,True,60,Smote,Random forest,0.107,0.304,0.065,0.816
+True,True,label,True,True,60,Oversampling,XG Boost,0.119,0.533,0.067,0.715
+True,True,label,True,True,60,Smote,XG Boost,0.127,0.305,0.08,0.849
+True,True,label,True,True,60,Oversampling,RegresiÃ³n logÃ­stica,0.121,0.494,0.069,0.74
+True,True,label,True,True,60,Oversampling,SGD,0.127,0.366,0.077,0.817
+True,True,label,True,True,60,Smote,RegresiÃ³n logÃ­stica,0.12,0.489,0.068,0.74
+True,True,label,True,True,60,Smote,SGD,0.127,0.366,0.077,0.817
+True,True,label,True,False,15,Oversampling,Decision Tree,0.27,0.543,0.18,0.665
+True,True,label,True,False,15,Smote,Decision Tree,0.263,0.456,0.185,0.709
+True,True,label,True,False,15,Oversampling,Random forest,0.27,0.547,0.179,0.662
+True,True,label,True,False,15,Smote,Random forest,0.267,0.471,0.187,0.706
+True,True,label,True,False,15,Oversampling,XG Boost,0.289,0.565,0.194,0.683
+True,True,label,True,False,15,Smote,XG Boost,0.292,0.497,0.206,0.724
+True,True,label,True,False,15,Oversampling,RegresiÃ³n logÃ­stica,0.255,0.425,0.182,0.717
+True,True,label,True,False,15,Oversampling,SGD,0.236,0.298,0.195,0.78
+True,True,label,True,False,15,Smote,RegresiÃ³n logÃ­stica,0.255,0.425,0.182,0.717
+True,True,label,True,False,15,Smote,SGD,0.236,0.298,0.195,0.78
+True,True,label,True,False,30,Oversampling,Decision Tree,0.184,0.499,0.112,0.681
+True,True,label,True,False,30,Smote,Decision Tree,0.181,0.378,0.119,0.754
+True,True,label,True,False,30,Oversampling,Random forest,0.183,0.499,0.112,0.679
+True,True,label,True,False,30,Smote,Random forest,0.184,0.391,0.12,0.751
+True,True,label,True,False,30,Oversampling,XG Boost,0.204,0.534,0.126,0.7
+True,True,label,True,False,30,Smote,XG Boost,0.204,0.397,0.138,0.778
+True,True,label,True,False,30,Oversampling,RegresiÃ³n logÃ­stica,0.19,0.446,0.12,0.726
+True,True,label,True,False,30,Oversampling,SGD,0.192,0.329,0.136,0.801
+True,True,label,True,False,30,Smote,RegresiÃ³n logÃ­stica,0.19,0.446,0.12,0.726
+True,True,label,True,False,30,Smote,SGD,0.192,0.329,0.136,0.801
+True,True,label,True,False,60,Oversampling,Decision Tree,0.109,0.479,0.062,0.7
+True,True,label,True,False,60,Smote,Decision Tree,0.101,0.28,0.062,0.809
+True,True,label,True,False,60,Oversampling,Random forest,0.109,0.473,0.061,0.703
+True,True,label,True,False,60,Smote,Random forest,0.1,0.28,0.061,0.808
+True,True,label,True,False,60,Oversampling,XG Boost,0.129,0.535,0.073,0.724
+True,True,label,True,False,60,Smote,XG Boost,0.129,0.321,0.08,0.833
+True,True,label,True,False,60,Oversampling,RegresiÃ³n logÃ­stica,0.125,0.489,0.071,0.737
+True,True,label,True,False,60,Oversampling,SGD,0.124,0.341,0.075,0.815
+True,True,label,True,False,60,Smote,RegresiÃ³n logÃ­stica,0.124,0.491,0.071,0.735
+True,True,label,True,False,60,Smote,SGD,0.124,0.341,0.075,0.815
+True,True,label,False,True,15,Oversampling,Decision Tree,0.253,0.553,0.164,0.639
+True,True,label,False,True,15,Smote,Decision Tree,0.242,0.446,0.166,0.69
+True,True,label,False,True,15,Oversampling,Random forest,0.253,0.555,0.164,0.637
+True,True,label,False,True,15,Smote,Random forest,0.245,0.456,0.167,0.688
+True,True,label,False,True,15,Oversampling,XG Boost,0.268,0.567,0.176,0.657
+True,True,label,False,True,15,Smote,XG Boost,0.264,0.473,0.183,0.708
+True,True,label,False,True,15,Oversampling,RegresiÃ³n logÃ­stica,0.243,0.415,0.172,0.714
+True,True,label,False,True,15,Oversampling,SGD,0.231,0.298,0.189,0.78
+True,True,label,False,True,15,Smote,RegresiÃ³n logÃ­stica,0.243,0.414,0.172,0.714
+True,True,label,False,True,15,Smote,SGD,0.231,0.298,0.189,0.78
+True,True,label,False,True,30,Oversampling,Decision Tree,0.177,0.506,0.107,0.674
+True,True,label,False,True,30,Smote,Decision Tree,0.172,0.385,0.111,0.744
+True,True,label,False,True,30,Oversampling,Random forest,0.175,0.508,0.106,0.669
+True,True,label,False,True,30,Smote,Random forest,0.175,0.395,0.112,0.743
+True,True,label,False,True,30,Oversampling,XG Boost,0.197,0.542,0.12,0.694
+True,True,label,False,True,30,Smote,XG Boost,0.197,0.411,0.129,0.768
+True,True,label,False,True,30,Oversampling,RegresiÃ³n logÃ­stica,0.191,0.461,0.121,0.731
+True,True,label,False,True,30,Oversampling,SGD,0.196,0.349,0.137,0.803
+True,True,label,False,True,30,Smote,RegresiÃ³n logÃ­stica,0.191,0.458,0.121,0.732
+True,True,label,False,True,30,Smote,SGD,0.196,0.349,0.137,0.803
+True,True,label,False,True,60,Oversampling,Decision Tree,0.11,0.506,0.062,0.705
+True,True,label,False,True,60,Smote,Decision Tree,0.105,0.296,0.064,0.818
+True,True,label,False,True,60,Oversampling,Random forest,0.111,0.516,0.062,0.7
+True,True,label,False,True,60,Smote,Random forest,0.107,0.304,0.065,0.816
+True,True,label,False,True,60,Oversampling,XG Boost,0.121,0.541,0.068,0.715
+True,True,label,False,True,60,Smote,XG Boost,0.127,0.305,0.08,0.849
+True,True,label,False,True,60,Oversampling,RegresiÃ³n logÃ­stica,0.121,0.496,0.069,0.74
+True,True,label,False,True,60,Oversampling,SGD,0.127,0.366,0.077,0.817
+True,True,label,False,True,60,Smote,RegresiÃ³n logÃ­stica,0.12,0.489,0.068,0.74
+True,True,label,False,True,60,Smote,SGD,0.127,0.366,0.077,0.817
+True,True,label,False,False,15,Oversampling,Decision Tree,0.271,0.539,0.181,0.668
+True,True,label,False,False,15,Smote,Decision Tree,0.263,0.456,0.185,0.709
+True,True,label,False,False,15,Oversampling,Random forest,0.27,0.546,0.18,0.664
+True,True,label,False,False,15,Smote,Random forest,0.267,0.471,0.187,0.706
+True,True,label,False,False,15,Oversampling,XG Boost,0.29,0.582,0.193,0.674
+True,True,label,False,False,15,Smote,XG Boost,0.292,0.497,0.206,0.724
+True,True,label,False,False,15,Oversampling,RegresiÃ³n logÃ­stica,0.255,0.425,0.182,0.717
+True,True,label,False,False,15,Oversampling,SGD,0.236,0.298,0.195,0.78
+True,True,label,False,False,15,Smote,RegresiÃ³n logÃ­stica,0.255,0.425,0.182,0.717
+True,True,label,False,False,15,Smote,SGD,0.236,0.298,0.195,0.78
+True,True,label,False,False,30,Oversampling,Decision Tree,0.184,0.508,0.112,0.676
+True,True,label,False,False,30,Smote,Decision Tree,0.181,0.378,0.119,0.754
+True,True,label,False,False,30,Oversampling,Random forest,0.184,0.511,0.112,0.675
+True,True,label,False,False,30,Smote,Random forest,0.184,0.391,0.12,0.751
+True,True,label,False,False,30,Oversampling,XG Boost,0.202,0.523,0.125,0.703
+True,True,label,False,False,30,Smote,XG Boost,0.204,0.397,0.138,0.778
+True,True,label,False,False,30,Oversampling,RegresiÃ³n logÃ­stica,0.189,0.444,0.12,0.726
+True,True,label,False,False,30,Oversampling,SGD,0.192,0.329,0.136,0.801
+True,True,label,False,False,30,Smote,RegresiÃ³n logÃ­stica,0.19,0.446,0.12,0.726
+True,True,label,False,False,30,Smote,SGD,0.192,0.329,0.136,0.801
+True,True,label,False,False,60,Oversampling,Decision Tree,0.111,0.484,0.062,0.702
+True,True,label,False,False,60,Smote,Decision Tree,0.101,0.28,0.062,0.809
+True,True,label,False,False,60,Oversampling,Random forest,0.11,0.483,0.062,0.701
+True,True,label,False,False,60,Smote,Random forest,0.1,0.28,0.061,0.808
+True,True,label,False,False,60,Oversampling,XG Boost,0.128,0.522,0.073,0.727
+True,True,label,False,False,60,Smote,XG Boost,0.129,0.321,0.08,0.833
+True,True,label,False,False,60,Oversampling,RegresiÃ³n logÃ­stica,0.125,0.476,0.072,0.744
+True,True,label,False,False,60,Oversampling,SGD,0.124,0.341,0.075,0.815
+True,True,label,False,False,60,Smote,RegresiÃ³n logÃ­stica,0.124,0.491,0.071,0.735
+True,True,label,False,False,60,Smote,SGD,0.124,0.341,0.075,0.815
+True,False,target,True,True,15,Oversampling,Decision Tree,0.204,0.206,0.203,0.821
+True,False,target,True,True,15,Smote,Decision Tree,0.191,0.21,0.176,0.802
+True,False,target,True,True,15,Oversampling,Random forest,0.173,0.12,0.313,0.872
+True,False,target,True,True,15,Smote,Random forest,0.138,0.088,0.326,0.878
+True,False,target,True,True,15,Oversampling,XG Boost,0.29,0.527,0.2,0.712
+True,False,target,True,True,15,Smote,XG Boost,0.075,0.04,0.519,0.889
+True,False,target,True,True,15,Oversampling,RegresiÃ³n logÃ­stica,0.277,0.575,0.182,0.664
+True,False,target,True,True,15,Oversampling,SGD,0.254,0.342,0.202,0.776
+True,False,target,True,True,15,Smote,RegresiÃ³n logÃ­stica,0.274,0.575,0.18,0.66
+True,False,target,True,True,15,Smote,SGD,0.255,0.344,0.202,0.775
+True,False,target,True,True,30,Oversampling,Decision Tree,0.129,0.13,0.129,0.879
+True,False,target,True,True,30,Smote,Decision Tree,0.139,0.16,0.123,0.863
+True,False,target,True,True,30,Oversampling,Random forest,0.107,0.068,0.251,0.921
+True,False,target,True,True,30,Smote,Random forest,0.094,0.056,0.284,0.925
+True,False,target,True,True,30,Oversampling,XG Boost,0.219,0.516,0.139,0.745
+True,False,target,True,True,30,Smote,XG Boost,0.044,0.023,0.409,0.93
+True,False,target,True,True,30,Oversampling,RegresiÃ³n logÃ­stica,0.203,0.554,0.124,0.698
+True,False,target,True,True,30,Oversampling,SGD,0.206,0.385,0.141,0.794
+True,False,target,True,True,30,Smote,RegresiÃ³n logÃ­stica,0.2,0.563,0.122,0.688
+True,False,target,True,True,30,Smote,SGD,0.207,0.386,0.141,0.794
+True,False,target,True,True,60,Oversampling,Decision Tree,0.083,0.083,0.082,0.933
+True,False,target,True,True,60,Smote,Decision Tree,0.088,0.102,0.077,0.923
+True,False,target,True,True,60,Oversampling,Random forest,0.04,0.023,0.154,0.96
+True,False,target,True,True,60,Smote,Random forest,0.033,0.018,0.155,0.961
+True,False,target,True,True,60,Oversampling,XG Boost,0.135,0.432,0.08,0.799
+True,False,target,True,True,60,Smote,XG Boost,0.013,0.007,0.261,0.963
+True,False,target,True,True,60,Oversampling,RegresiÃ³n logÃ­stica,0.126,0.588,0.071,0.703
+True,False,target,True,True,60,Oversampling,SGD,0.13,0.395,0.078,0.807
+True,False,target,True,True,60,Smote,RegresiÃ³n logÃ­stica,0.127,0.589,0.071,0.704
+True,False,target,True,True,60,Smote,SGD,0.13,0.394,0.078,0.807
+True,False,target,True,False,15,Oversampling,Decision Tree,0.193,0.193,0.193,0.819
+True,False,target,True,False,15,Smote,Decision Tree,0.197,0.217,0.18,0.802
+True,False,target,True,False,15,Oversampling,Random forest,0.177,0.123,0.314,0.872
+True,False,target,True,False,15,Smote,Random forest,0.141,0.089,0.349,0.879
+True,False,target,True,False,15,Oversampling,XG Boost,0.289,0.539,0.197,0.703
+True,False,target,True,False,15,Smote,XG Boost,0.089,0.048,0.558,0.889
+True,False,target,True,False,15,Oversampling,RegresiÃ³n logÃ­stica,0.276,0.58,0.181,0.66
+True,False,target,True,False,15,Oversampling,SGD,0.268,0.365,0.212,0.777
+True,False,target,True,False,15,Smote,RegresiÃ³n logÃ­stica,0.275,0.581,0.18,0.658
+True,False,target,True,False,15,Smote,SGD,0.268,0.365,0.212,0.777
+True,False,target,True,False,30,Oversampling,Decision Tree,0.145,0.147,0.144,0.879
+True,False,target,True,False,30,Smote,Decision Tree,0.149,0.168,0.133,0.866
+True,False,target,True,False,30,Oversampling,Random forest,0.108,0.068,0.264,0.922
+True,False,target,True,False,30,Smote,Random forest,0.094,0.056,0.292,0.925
+True,False,target,True,False,30,Oversampling,XG Boost,0.22,0.512,0.14,0.747
+True,False,target,True,False,30,Smote,XG Boost,0.044,0.023,0.521,0.93
+True,False,target,True,False,30,Oversampling,RegresiÃ³n logÃ­stica,0.21,0.581,0.128,0.695
+True,False,target,True,False,30,Oversampling,SGD,0.216,0.403,0.147,0.796
+True,False,target,True,False,30,Smote,RegresiÃ³n logÃ­stica,0.209,0.577,0.127,0.695
+True,False,target,True,False,30,Smote,SGD,0.218,0.413,0.148,0.793
+True,False,target,True,False,60,Oversampling,Decision Tree,0.099,0.098,0.099,0.934
+True,False,target,True,False,60,Smote,Decision Tree,0.126,0.152,0.108,0.923
+True,False,target,True,False,60,Oversampling,Random forest,0.067,0.04,0.205,0.959
+True,False,target,True,False,60,Smote,Random forest,0.046,0.026,0.193,0.96
+True,False,target,True,False,60,Oversampling,XG Boost,0.136,0.423,0.081,0.802
+True,False,target,True,False,60,Smote,XG Boost,0.037,0.019,0.548,0.963
+True,False,target,True,False,60,Oversampling,RegresiÃ³n logÃ­stica,0.132,0.596,0.074,0.712
+True,False,target,True,False,60,Oversampling,SGD,0.139,0.421,0.084,0.809
+True,False,target,True,False,60,Smote,RegresiÃ³n logÃ­stica,0.131,0.602,0.074,0.707
+True,False,target,True,False,60,Smote,SGD,0.139,0.42,0.083,0.809
+True,False,target,False,True,15,Oversampling,Decision Tree,0.195,0.197,0.192,0.819
+True,False,target,False,True,15,Smote,Decision Tree,0.202,0.223,0.185,0.805
+True,False,target,False,True,15,Oversampling,Random forest,0.167,0.117,0.291,0.871
+True,False,target,False,True,15,Smote,Random forest,0.146,0.093,0.336,0.879
+True,False,target,False,True,15,Oversampling,XG Boost,0.295,0.542,0.202,0.713
+True,False,target,False,True,15,Smote,XG Boost,0.087,0.047,0.539,0.89
+True,False,target,False,True,15,Oversampling,RegresiÃ³n logÃ­stica,0.275,0.584,0.18,0.66
+True,False,target,False,True,15,Oversampling,SGD,0.265,0.364,0.209,0.777
+True,False,target,False,True,15,Smote,RegresiÃ³n logÃ­stica,0.275,0.59,0.18,0.656
+True,False,target,False,True,15,Smote,SGD,0.264,0.361,0.208,0.777
+True,False,target,False,True,30,Oversampling,Decision Tree,0.147,0.148,0.145,0.881
+True,False,target,False,True,30,Smote,Decision Tree,0.148,0.168,0.131,0.866
+True,False,target,False,True,30,Oversampling,Random forest,0.108,0.069,0.254,0.922
+True,False,target,False,True,30,Smote,Random forest,0.094,0.057,0.28,0.925
+True,False,target,False,True,30,Oversampling,XG Boost,0.222,0.525,0.14,0.745
+True,False,target,False,True,30,Smote,XG Boost,0.047,0.025,0.426,0.93
+True,False,target,False,True,30,Oversampling,RegresiÃ³n logÃ­stica,0.205,0.592,0.124,0.682
+True,False,target,False,True,30,Oversampling,SGD,0.221,0.424,0.15,0.794
+True,False,target,False,True,30,Smote,RegresiÃ³n logÃ­stica,0.205,0.593,0.124,0.682
+True,False,target,False,True,30,Smote,SGD,0.222,0.425,0.15,0.794
+True,False,target,False,True,60,Oversampling,Decision Tree,0.096,0.096,0.095,0.934
+True,False,target,False,True,60,Smote,Decision Tree,0.122,0.143,0.107,0.926
+True,False,target,False,True,60,Oversampling,Random forest,0.038,0.022,0.14,0.96
+True,False,target,False,True,60,Smote,Random forest,0.033,0.019,0.136,0.96
+True,False,target,False,True,60,Oversampling,XG Boost,0.141,0.448,0.083,0.802
+True,False,target,False,True,60,Smote,XG Boost,0.017,0.009,0.32,0.963
+True,False,target,False,True,60,Oversampling,RegresiÃ³n logÃ­stica,0.131,0.608,0.073,0.708
+True,False,target,False,True,60,Oversampling,SGD,0.137,0.43,0.082,0.804
+True,False,target,False,True,60,Smote,RegresiÃ³n logÃ­stica,0.129,0.61,0.072,0.703
+True,False,target,False,True,60,Smote,SGD,0.137,0.427,0.081,0.805
+True,False,target,False,False,15,Oversampling,Decision Tree,0.211,0.217,0.205,0.815
+True,False,target,False,False,15,Smote,Decision Tree,0.212,0.233,0.194,0.802
+True,False,target,False,False,15,Oversampling,Random forest,0.205,0.146,0.349,0.872
+True,False,target,False,False,15,Smote,Random forest,0.173,0.112,0.375,0.877
+True,False,target,False,False,15,Oversampling,XG Boost,0.315,0.578,0.217,0.714
+True,False,target,False,False,15,Smote,XG Boost,0.118,0.066,0.538,0.887
+True,False,target,False,False,15,Oversampling,RegresiÃ³n logÃ­stica,0.294,0.594,0.195,0.674
+True,False,target,False,False,15,Oversampling,SGD,0.281,0.39,0.219,0.772
+True,False,target,False,False,15,Smote,RegresiÃ³n logÃ­stica,0.293,0.594,0.194,0.672
+True,False,target,False,False,15,Smote,SGD,0.282,0.392,0.22,0.772
+True,False,target,False,False,30,Oversampling,Decision Tree,0.168,0.169,0.166,0.879
+True,False,target,False,False,30,Smote,Decision Tree,0.159,0.181,0.141,0.862
+True,False,target,False,False,30,Oversampling,Random forest,0.17,0.112,0.356,0.922
+True,False,target,False,False,30,Smote,Random forest,0.128,0.079,0.349,0.923
+True,False,target,False,False,30,Oversampling,XG Boost,0.232,0.51,0.15,0.758
+True,False,target,False,False,30,Smote,XG Boost,0.095,0.051,0.637,0.93
+True,False,target,False,False,30,Oversampling,RegresiÃ³n logÃ­stica,0.214,0.565,0.132,0.702
+True,False,target,False,False,30,Oversampling,SGD,0.22,0.42,0.15,0.787
+True,False,target,False,False,30,Smote,RegresiÃ³n logÃ­stica,0.215,0.567,0.132,0.702
+True,False,target,False,False,30,Smote,SGD,0.221,0.422,0.15,0.787
+True,False,target,False,False,60,Oversampling,Decision Tree,0.108,0.107,0.109,0.932
+True,False,target,False,False,60,Smote,Decision Tree,0.105,0.124,0.091,0.919
+True,False,target,False,False,60,Oversampling,Random forest,0.091,0.055,0.269,0.958
+True,False,target,False,False,60,Smote,Random forest,0.081,0.047,0.29,0.959
+True,False,target,False,False,60,Oversampling,XG Boost,0.157,0.478,0.094,0.803
+True,False,target,False,False,60,Smote,XG Boost,0.072,0.038,0.561,0.962
+True,False,target,False,False,60,Oversampling,RegresiÃ³n logÃ­stica,0.138,0.595,0.078,0.717
+True,False,target,False,False,60,Oversampling,SGD,0.143,0.447,0.085,0.795
+True,False,target,False,False,60,Smote,RegresiÃ³n logÃ­stica,0.137,0.596,0.077,0.712
+True,False,target,False,False,60,Smote,SGD,0.143,0.446,0.085,0.795
+True,False,label,True,True,15,Oversampling,Decision Tree,0.203,0.206,0.2,0.82
+True,False,label,True,True,15,Smote,Decision Tree,0.193,0.211,0.178,0.803
+True,False,label,True,True,15,Oversampling,Random forest,0.168,0.115,0.307,0.872
+True,False,label,True,True,15,Smote,Random forest,0.126,0.082,0.278,0.874
+True,False,label,True,True,15,Oversampling,XG Boost,0.286,0.527,0.197,0.707
+True,False,label,True,True,15,Smote,XG Boost,0.073,0.039,0.515,0.889
+True,False,label,True,True,15,Oversampling,RegresiÃ³n logÃ­stica,0.247,0.507,0.163,0.655
+True,False,label,True,True,15,Oversampling,SGD,0.242,0.406,0.172,0.716
+True,False,label,True,True,15,Smote,RegresiÃ³n logÃ­stica,0.249,0.521,0.164,0.65
+True,False,label,True,True,15,Smote,SGD,0.242,0.405,0.172,0.717
+True,False,label,True,True,30,Oversampling,Decision Tree,0.132,0.131,0.133,0.881
+True,False,label,True,True,30,Smote,Decision Tree,0.129,0.146,0.115,0.863
+True,False,label,True,True,30,Oversampling,Random forest,0.1,0.064,0.224,0.92
+True,False,label,True,True,30,Smote,Random forest,0.087,0.053,0.233,0.922
+True,False,label,True,True,30,Oversampling,XG Boost,0.219,0.51,0.139,0.747
+True,False,label,True,True,30,Smote,XG Boost,0.038,0.02,0.478,0.931
+True,False,label,True,True,30,Oversampling,RegresiÃ³n logÃ­stica,0.188,0.486,0.117,0.709
+True,False,label,True,True,30,Oversampling,SGD,0.189,0.449,0.12,0.733
+True,False,label,True,True,30,Smote,RegresiÃ³n logÃ­stica,0.189,0.505,0.116,0.699
+True,False,label,True,True,30,Smote,SGD,0.189,0.447,0.12,0.734
+True,False,label,True,True,60,Oversampling,Decision Tree,0.077,0.075,0.078,0.934
+True,False,label,True,True,60,Smote,Decision Tree,0.073,0.085,0.064,0.921
+True,False,label,True,True,60,Oversampling,Random forest,0.039,0.023,0.127,0.959
+True,False,label,True,True,60,Smote,Random forest,0.036,0.021,0.133,0.959
+True,False,label,True,True,60,Oversampling,XG Boost,0.136,0.423,0.081,0.803
+True,False,label,True,True,60,Smote,XG Boost,0.016,0.008,0.318,0.963
+True,False,label,True,True,60,Oversampling,RegresiÃ³n logÃ­stica,0.116,0.494,0.066,0.726
+True,False,label,True,True,60,Oversampling,SGD,0.115,0.467,0.066,0.738
+True,False,label,True,True,60,Smote,RegresiÃ³n logÃ­stica,0.117,0.489,0.067,0.732
+True,False,label,True,True,60,Smote,SGD,0.115,0.468,0.066,0.738
+True,False,label,True,False,15,Oversampling,Decision Tree,0.194,0.194,0.194,0.819
+True,False,label,True,False,15,Smote,Decision Tree,0.204,0.228,0.185,0.802
+True,False,label,True,False,15,Oversampling,Random forest,0.178,0.123,0.319,0.872
+True,False,label,True,False,15,Smote,Random forest,0.158,0.104,0.331,0.876
+True,False,label,True,False,15,Oversampling,XG Boost,0.294,0.544,0.201,0.707
+True,False,label,True,False,15,Smote,XG Boost,0.079,0.043,0.53,0.889
+True,False,label,True,False,15,Oversampling,RegresiÃ³n logÃ­stica,0.251,0.528,0.165,0.647
+True,False,label,True,False,15,Oversampling,SGD,0.252,0.434,0.177,0.712
+True,False,label,True,False,15,Smote,RegresiÃ³n logÃ­stica,0.25,0.528,0.163,0.645
+True,False,label,True,False,15,Smote,SGD,0.252,0.43,0.178,0.714
+True,False,label,True,False,30,Oversampling,Decision Tree,0.153,0.153,0.154,0.882
+True,False,label,True,False,30,Smote,Decision Tree,0.141,0.159,0.126,0.864
+True,False,label,True,False,30,Oversampling,Random forest,0.115,0.074,0.254,0.92
+True,False,label,True,False,30,Smote,Random forest,0.087,0.053,0.252,0.923
+True,False,label,True,False,30,Oversampling,XG Boost,0.221,0.515,0.14,0.746
+True,False,label,True,False,30,Smote,XG Boost,0.046,0.024,0.476,0.93
+True,False,label,True,False,30,Oversampling,RegresiÃ³n logÃ­stica,0.19,0.49,0.118,0.71
+True,False,label,True,False,30,Oversampling,SGD,0.189,0.465,0.119,0.722
+True,False,label,True,False,30,Smote,RegresiÃ³n logÃ­stica,0.186,0.496,0.115,0.698
+True,False,label,True,False,30,Smote,SGD,0.19,0.465,0.12,0.724
+True,False,label,True,False,60,Oversampling,Decision Tree,0.113,0.113,0.113,0.935
+True,False,label,True,False,60,Smote,Decision Tree,0.098,0.116,0.085,0.922
+True,False,label,True,False,60,Oversampling,Random forest,0.07,0.042,0.213,0.959
+True,False,label,True,False,60,Smote,Random forest,0.058,0.034,0.201,0.96
+True,False,label,True,False,60,Oversampling,XG Boost,0.143,0.456,0.085,0.799
+True,False,label,True,False,60,Smote,XG Boost,0.025,0.013,0.611,0.963
+True,False,label,True,False,60,Oversampling,RegresiÃ³n logÃ­stica,0.122,0.517,0.069,0.727
+True,False,label,True,False,60,Oversampling,SGD,0.118,0.48,0.067,0.737
+True,False,label,True,False,60,Smote,RegresiÃ³n logÃ­stica,0.121,0.509,0.069,0.729
+True,False,label,True,False,60,Smote,SGD,0.119,0.478,0.068,0.74
+True,False,label,False,True,15,Oversampling,Decision Tree,0.178,0.177,0.179,0.818
+True,False,label,False,True,15,Smote,Decision Tree,0.186,0.209,0.167,0.797
+True,False,label,False,True,15,Oversampling,Random forest,0.157,0.111,0.272,0.869
+True,False,label,False,True,15,Smote,Random forest,0.132,0.087,0.269,0.873
+True,False,label,False,True,15,Oversampling,XG Boost,0.298,0.549,0.204,0.713
+True,False,label,False,True,15,Smote,XG Boost,0.069,0.037,0.455,0.888
+True,False,label,False,True,15,Oversampling,RegresiÃ³n logÃ­stica,0.253,0.521,0.167,0.659
+True,False,label,False,True,15,Oversampling,SGD,0.243,0.411,0.172,0.716
+True,False,label,False,True,15,Smote,RegresiÃ³n logÃ­stica,0.251,0.526,0.165,0.652
+True,False,label,False,True,15,Smote,SGD,0.245,0.418,0.174,0.715
+True,False,label,False,True,30,Oversampling,Decision Tree,0.147,0.151,0.144,0.879
+True,False,label,False,True,30,Smote,Decision Tree,0.149,0.174,0.131,0.863
+True,False,label,False,True,30,Oversampling,Random forest,0.119,0.077,0.257,0.921
+True,False,label,False,True,30,Smote,Random forest,0.106,0.066,0.272,0.923
+True,False,label,False,True,30,Oversampling,XG Boost,0.226,0.537,0.143,0.746
+True,False,label,False,True,30,Smote,XG Boost,0.039,0.02,0.479,0.931
+True,False,label,False,True,30,Oversampling,RegresiÃ³n logÃ­stica,0.191,0.504,0.118,0.704
+True,False,label,False,True,30,Oversampling,SGD,0.191,0.47,0.12,0.724
+True,False,label,False,True,30,Smote,RegresiÃ³n logÃ­stica,0.191,0.504,0.118,0.705
+True,False,label,False,True,30,Smote,SGD,0.192,0.47,0.12,0.726
+True,False,label,False,True,60,Oversampling,Decision Tree,0.112,0.112,0.113,0.936
+True,False,label,False,True,60,Smote,Decision Tree,0.116,0.143,0.097,0.921
+True,False,label,False,True,60,Oversampling,Random forest,0.052,0.031,0.153,0.959
+True,False,label,False,True,60,Smote,Random forest,0.063,0.038,0.188,0.959
+True,False,label,False,True,60,Oversampling,XG Boost,0.146,0.47,0.086,0.8
+True,False,label,False,True,60,Smote,XG Boost,0.007,0.003,0.214,0.964
+True,False,label,False,True,60,Oversampling,RegresiÃ³n logÃ­stica,0.124,0.54,0.07,0.724
+True,False,label,False,True,60,Oversampling,SGD,0.123,0.502,0.07,0.74
+True,False,label,False,True,60,Smote,RegresiÃ³n logÃ­stica,0.124,0.542,0.07,0.723
+True,False,label,False,True,60,Smote,SGD,0.121,0.503,0.069,0.736
+True,False,label,False,False,15,Oversampling,Decision Tree,0.208,0.212,0.204,0.816
+True,False,label,False,False,15,Smote,Decision Tree,0.214,0.24,0.193,0.799
+True,False,label,False,False,15,Oversampling,Random forest,0.2,0.142,0.339,0.871
+True,False,label,False,False,15,Smote,Random forest,0.18,0.121,0.348,0.874
+True,False,label,False,False,15,Oversampling,XG Boost,0.315,0.581,0.216,0.712
+True,False,label,False,False,15,Smote,XG Boost,0.113,0.062,0.568,0.888
+True,False,label,False,False,15,Oversampling,RegresiÃ³n logÃ­stica,0.26,0.511,0.174,0.668
+True,False,label,False,False,15,Oversampling,SGD,0.254,0.423,0.181,0.716
+True,False,label,False,False,15,Smote,RegresiÃ³n logÃ­stica,0.261,0.515,0.175,0.667
+True,False,label,False,False,15,Smote,SGD,0.254,0.423,0.181,0.716
+True,False,label,False,False,30,Oversampling,Decision Tree,0.157,0.157,0.157,0.879
+True,False,label,False,False,30,Smote,Decision Tree,0.149,0.171,0.133,0.86
+True,False,label,False,False,30,Oversampling,Random forest,0.148,0.099,0.3,0.919
+True,False,label,False,False,30,Smote,Random forest,0.127,0.081,0.297,0.92
+True,False,label,False,False,30,Oversampling,XG Boost,0.23,0.516,0.148,0.752
+True,False,label,False,False,30,Smote,XG Boost,0.087,0.047,0.59,0.929
+True,False,label,False,False,30,Oversampling,RegresiÃ³n logÃ­stica,0.19,0.533,0.115,0.673
+True,False,label,False,False,30,Oversampling,SGD,0.193,0.445,0.123,0.732
+True,False,label,False,False,30,Smote,RegresiÃ³n logÃ­stica,0.19,0.525,0.116,0.677
+True,False,label,False,False,30,Smote,SGD,0.192,0.444,0.123,0.732
+True,False,label,False,False,60,Oversampling,Decision Tree,0.117,0.117,0.117,0.932
+True,False,label,False,False,60,Smote,Decision Tree,0.121,0.142,0.105,0.921
+True,False,label,False,False,60,Oversampling,Random forest,0.098,0.06,0.266,0.958
+True,False,label,False,False,60,Smote,Random forest,0.083,0.05,0.245,0.958
+True,False,label,False,False,60,Oversampling,XG Boost,0.155,0.472,0.093,0.803
+True,False,label,False,False,60,Smote,XG Boost,0.067,0.035,0.694,0.962
+True,False,label,False,False,60,Oversampling,RegresiÃ³n logÃ­stica,0.125,0.577,0.07,0.692
+True,False,label,False,False,60,Oversampling,SGD,0.127,0.493,0.073,0.739
+True,False,label,False,False,60,Smote,RegresiÃ³n logÃ­stica,0.125,0.576,0.07,0.692
+True,False,label,False,False,60,Smote,SGD,0.126,0.49,0.073,0.741
+False,True,target,True,True,15,Oversampling,Decision Tree,0.258,0.426,0.186,0.478
+False,True,target,True,True,15,Smote,Decision Tree,0.246,0.37,0.185,0.487
+False,True,target,True,True,15,Oversampling,Random forest,0.26,0.43,0.186,0.48
+False,True,target,True,True,15,Smote,Random forest,0.248,0.382,0.183,0.484
+False,True,target,True,True,15,Oversampling,XG Boost,0.279,0.488,0.196,0.467
+False,True,target,True,True,15,Smote,XG Boost,0.275,0.426,0.203,0.485
+False,True,target,True,True,15,Oversampling,RegresiÃ³n logÃ­stica,0.246,0.329,0.197,0.461
+False,True,target,True,True,15,Oversampling,SGD,0.233,0.292,0.194,0.488
+False,True,target,True,True,15,Smote,RegresiÃ³n logÃ­stica,0.246,0.329,0.197,0.462
+False,True,target,True,True,15,Smote,SGD,0.0,0.0,0.0,0.577
+False,True,target,True,True,30,Oversampling,Decision Tree,0.18,0.444,0.112,0.511
+False,True,target,True,True,30,Smote,Decision Tree,0.176,0.356,0.117,0.613
+False,True,target,True,True,30,Oversampling,Random forest,0.179,0.442,0.112,0.515
+False,True,target,True,True,30,Smote,Random forest,0.178,0.364,0.118,0.613
+False,True,target,True,True,30,Oversampling,XG Boost,0.199,0.507,0.124,0.502
+False,True,target,True,True,30,Smote,XG Boost,0.197,0.363,0.135,0.635
+False,True,target,True,True,30,Oversampling,RegresiÃ³n logÃ­stica,0.201,0.486,0.127,0.52
+False,True,target,True,True,30,Oversampling,SGD,0.154,0.77,0.086,0.076
+False,True,target,True,True,30,Smote,RegresiÃ³n logÃ­stica,0.2,0.486,0.126,0.515
+False,True,target,True,True,30,Smote,SGD,0.153,0.781,0.085,0.074
+False,True,target,True,True,60,Oversampling,Decision Tree,0.107,0.475,0.06,0.667
+False,True,target,True,True,60,Smote,Decision Tree,0.1,0.269,0.062,0.819
+False,True,target,True,True,60,Oversampling,Random forest,0.105,0.47,0.059,0.666
+False,True,target,True,True,60,Smote,Random forest,0.102,0.272,0.063,0.819
+False,True,target,True,True,60,Oversampling,XG Boost,0.121,0.542,0.068,0.664
+False,True,target,True,True,60,Smote,XG Boost,0.123,0.282,0.079,0.848
+False,True,target,True,True,60,Oversampling,RegresiÃ³n logÃ­stica,0.124,0.453,0.072,0.669
+False,True,target,True,True,60,Oversampling,SGD,0.098,0.602,0.054,0.125
+False,True,target,True,True,60,Smote,RegresiÃ³n logÃ­stica,0.123,0.477,0.071,0.648
+False,True,target,True,True,60,Smote,SGD,0.09,0.674,0.048,0.039
+False,True,target,True,False,15,Oversampling,Decision Tree,0.265,0.413,0.195,0.479
+False,True,target,True,False,15,Smote,Decision Tree,0.262,0.365,0.204,0.496
+False,True,target,True,False,15,Oversampling,Random forest,0.268,0.421,0.196,0.479
+False,True,target,True,False,15,Smote,Random forest,0.268,0.382,0.206,0.498
+False,True,target,True,False,15,Oversampling,XG Boost,0.297,0.485,0.214,0.48
+False,True,target,True,False,15,Smote,XG Boost,0.291,0.425,0.221,0.495
+False,True,target,True,False,15,Oversampling,RegresiÃ³n logÃ­stica,0.255,0.361,0.198,0.442
+False,True,target,True,False,15,Oversampling,SGD,0.249,0.34,0.196,0.323
+False,True,target,True,False,15,Smote,RegresiÃ³n logÃ­stica,0.256,0.361,0.198,0.442
+False,True,target,True,False,15,Smote,SGD,0.259,0.383,0.195,0.314
+False,True,target,True,False,30,Oversampling,Decision Tree,0.182,0.442,0.115,0.494
+False,True,target,True,False,30,Smote,Decision Tree,0.177,0.322,0.122,0.618
+False,True,target,True,False,30,Oversampling,Random forest,0.184,0.451,0.116,0.492
+False,True,target,True,False,30,Smote,Random forest,0.181,0.334,0.124,0.617
+False,True,target,True,False,30,Oversampling,XG Boost,0.215,0.486,0.138,0.527
+False,True,target,True,False,30,Smote,XG Boost,0.218,0.364,0.156,0.654
+False,True,target,True,False,30,Oversampling,RegresiÃ³n logÃ­stica,0.209,0.499,0.133,0.467
+False,True,target,True,False,30,Oversampling,SGD,0.179,0.673,0.103,0.178
+False,True,target,True,False,30,Smote,RegresiÃ³n logÃ­stica,0.207,0.498,0.131,0.465
+False,True,target,True,False,30,Smote,SGD,0.176,0.696,0.101,0.184
+False,True,target,True,False,60,Oversampling,Decision Tree,0.111,0.453,0.063,0.675
+False,True,target,True,False,60,Smote,Decision Tree,0.102,0.257,0.064,0.819
+False,True,target,True,False,60,Oversampling,Random forest,0.111,0.456,0.063,0.674
+False,True,target,True,False,60,Smote,Random forest,0.108,0.266,0.068,0.824
+False,True,target,True,False,60,Oversampling,XG Boost,0.128,0.524,0.073,0.675
+False,True,target,True,False,60,Smote,XG Boost,0.135,0.291,0.088,0.848
+False,True,target,True,False,60,Oversampling,RegresiÃ³n logÃ­stica,0.131,0.431,0.077,0.713
+False,True,target,True,False,60,Oversampling,SGD,0.08,0.898,0.042,0.074
+False,True,target,True,False,60,Smote,RegresiÃ³n logÃ­stica,0.129,0.429,0.076,0.712
+False,True,target,True,False,60,Smote,SGD,0.083,0.872,0.043,0.15
+False,True,target,False,True,15,Oversampling,Decision Tree,0.261,0.434,0.186,0.476
+False,True,target,False,True,15,Smote,Decision Tree,0.246,0.37,0.185,0.487
+False,True,target,False,True,15,Oversampling,Random forest,0.262,0.441,0.186,0.477
+False,True,target,False,True,15,Smote,Random forest,0.248,0.382,0.183,0.484
+False,True,target,False,True,15,Oversampling,XG Boost,0.276,0.495,0.191,0.463
+False,True,target,False,True,15,Smote,XG Boost,0.275,0.426,0.203,0.485
+False,True,target,False,True,15,Oversampling,RegresiÃ³n logÃ­stica,0.247,0.327,0.198,0.463
+False,True,target,False,True,15,Oversampling,SGD,0.232,0.281,0.198,0.517
+False,True,target,False,True,15,Smote,RegresiÃ³n logÃ­stica,0.246,0.329,0.197,0.462
+False,True,target,False,True,15,Smote,SGD,0.0,0.0,0.0,0.577
+False,True,target,False,True,30,Oversampling,Decision Tree,0.182,0.449,0.114,0.508
+False,True,target,False,True,30,Smote,Decision Tree,0.176,0.356,0.117,0.613
+False,True,target,False,True,30,Oversampling,Random forest,0.181,0.451,0.114,0.508
+False,True,target,False,True,30,Smote,Random forest,0.178,0.364,0.118,0.613
+False,True,target,False,True,30,Oversampling,XG Boost,0.2,0.501,0.125,0.51
+False,True,target,False,True,30,Smote,XG Boost,0.197,0.363,0.135,0.635
+False,True,target,False,True,30,Oversampling,RegresiÃ³n logÃ­stica,0.202,0.493,0.127,0.522
+False,True,target,False,True,30,Oversampling,SGD,0.152,0.792,0.084,0.081
+False,True,target,False,True,30,Smote,RegresiÃ³n logÃ­stica,0.2,0.486,0.126,0.515
+False,True,target,False,True,30,Smote,SGD,0.153,0.781,0.085,0.074
+False,True,target,False,True,60,Oversampling,Decision Tree,0.105,0.475,0.059,0.662
+False,True,target,False,True,60,Smote,Decision Tree,0.1,0.269,0.062,0.819
+False,True,target,False,True,60,Oversampling,Random forest,0.104,0.472,0.059,0.661
+False,True,target,False,True,60,Smote,Random forest,0.102,0.272,0.063,0.819
+False,True,target,False,True,60,Oversampling,XG Boost,0.123,0.545,0.069,0.67
+False,True,target,False,True,60,Smote,XG Boost,0.123,0.282,0.079,0.848
+False,True,target,False,True,60,Oversampling,RegresiÃ³n logÃ­stica,0.125,0.455,0.072,0.669
+False,True,target,False,True,60,Oversampling,SGD,0.099,0.597,0.054,0.126
+False,True,target,False,True,60,Smote,RegresiÃ³n logÃ­stica,0.123,0.477,0.071,0.648
+False,True,target,False,True,60,Smote,SGD,0.09,0.674,0.048,0.039
+False,True,target,False,False,15,Oversampling,Decision Tree,0.267,0.425,0.194,0.476
+False,True,target,False,False,15,Smote,Decision Tree,0.262,0.365,0.204,0.496
+False,True,target,False,False,15,Oversampling,Random forest,0.27,0.436,0.195,0.476
+False,True,target,False,False,15,Smote,Random forest,0.268,0.382,0.206,0.498
+False,True,target,False,False,15,Oversampling,XG Boost,0.294,0.486,0.211,0.48
+False,True,target,False,False,15,Smote,XG Boost,0.291,0.425,0.221,0.495
+False,True,target,False,False,15,Oversampling,RegresiÃ³n logÃ­stica,0.254,0.359,0.197,0.441
+False,True,target,False,False,15,Oversampling,SGD,0.259,0.355,0.204,0.342
+False,True,target,False,False,15,Smote,RegresiÃ³n logÃ­stica,0.256,0.361,0.198,0.442
+False,True,target,False,False,15,Smote,SGD,0.259,0.383,0.195,0.314
+False,True,target,False,False,30,Oversampling,Decision Tree,0.183,0.425,0.117,0.509
+False,True,target,False,False,30,Smote,Decision Tree,0.177,0.322,0.122,0.618
+False,True,target,False,False,30,Oversampling,Random forest,0.184,0.434,0.117,0.507
+False,True,target,False,False,30,Smote,Random forest,0.181,0.334,0.124,0.617
+False,True,target,False,False,30,Oversampling,XG Boost,0.212,0.481,0.136,0.538
+False,True,target,False,False,30,Smote,XG Boost,0.218,0.364,0.156,0.654
+False,True,target,False,False,30,Oversampling,RegresiÃ³n logÃ­stica,0.208,0.487,0.133,0.473
+False,True,target,False,False,30,Oversampling,SGD,0.18,0.674,0.104,0.18
+False,True,target,False,False,30,Smote,RegresiÃ³n logÃ­stica,0.207,0.498,0.131,0.465
+False,True,target,False,False,30,Smote,SGD,0.176,0.696,0.101,0.184
+False,True,target,False,False,60,Oversampling,Decision Tree,0.116,0.478,0.066,0.674
+False,True,target,False,False,60,Smote,Decision Tree,0.102,0.257,0.064,0.819
+False,True,target,False,False,60,Oversampling,Random forest,0.114,0.475,0.065,0.671
+False,True,target,False,False,60,Smote,Random forest,0.108,0.266,0.068,0.824
+False,True,target,False,False,60,Oversampling,XG Boost,0.128,0.516,0.073,0.68
+False,True,target,False,False,60,Smote,XG Boost,0.135,0.291,0.088,0.848
+False,True,target,False,False,60,Oversampling,RegresiÃ³n logÃ­stica,0.131,0.428,0.077,0.714
+False,True,target,False,False,60,Oversampling,SGD,0.081,0.906,0.042,0.072
+False,True,target,False,False,60,Smote,RegresiÃ³n logÃ­stica,0.129,0.429,0.076,0.712
+False,True,target,False,False,60,Smote,SGD,0.083,0.872,0.043,0.15
+False,True,label,True,True,15,Oversampling,Decision Tree,0.259,0.437,0.184,0.47
+False,True,label,True,True,15,Smote,Decision Tree,0.249,0.386,0.184,0.48
+False,True,label,True,True,15,Oversampling,Random forest,0.259,0.448,0.183,0.468
+False,True,label,True,True,15,Smote,Random forest,0.251,0.398,0.183,0.478
+False,True,label,True,True,15,Oversampling,XG Boost,0.277,0.485,0.194,0.467
+False,True,label,True,True,15,Smote,XG Boost,0.271,0.444,0.195,0.478
+False,True,label,True,True,15,Oversampling,RegresiÃ³n logÃ­stica,0.241,0.369,0.179,0.362
+False,True,label,True,True,15,Oversampling,SGD,0.201,0.984,0.112,0.124
+False,True,label,True,True,15,Smote,RegresiÃ³n logÃ­stica,0.242,0.367,0.181,0.366
+False,True,label,True,True,15,Smote,SGD,0.204,0.939,0.114,0.145
+False,True,label,True,True,30,Oversampling,Decision Tree,0.183,0.455,0.115,0.499
+False,True,label,True,True,30,Smote,Decision Tree,0.175,0.354,0.116,0.6
+False,True,label,True,True,30,Oversampling,Random forest,0.182,0.459,0.114,0.497
+False,True,label,True,True,30,Smote,Random forest,0.176,0.361,0.117,0.599
+False,True,label,True,True,30,Oversampling,XG Boost,0.198,0.504,0.123,0.502
+False,True,label,True,True,30,Smote,XG Boost,0.2,0.398,0.134,0.601
+False,True,label,True,True,30,Oversampling,RegresiÃ³n logÃ­stica,0.19,0.442,0.121,0.379
+False,True,label,True,True,30,Oversampling,SGD,0.154,0.647,0.088,0.108
+False,True,label,True,True,30,Smote,RegresiÃ³n logÃ­stica,0.189,0.441,0.121,0.375
+False,True,label,True,True,30,Smote,SGD,0.161,0.569,0.094,0.078
+False,True,label,True,True,60,Oversampling,Decision Tree,0.106,0.501,0.059,0.645
+False,True,label,True,True,60,Smote,Decision Tree,0.101,0.29,0.061,0.806
+False,True,label,True,True,60,Oversampling,Random forest,0.105,0.498,0.059,0.645
+False,True,label,True,True,60,Smote,Random forest,0.103,0.298,0.062,0.804
+False,True,label,True,True,60,Oversampling,XG Boost,0.12,0.536,0.067,0.66
+False,True,label,True,True,60,Smote,XG Boost,0.12,0.317,0.074,0.823
+False,True,label,True,True,60,Oversampling,RegresiÃ³n logÃ­stica,0.126,0.357,0.076,0.658
+False,True,label,True,True,60,Oversampling,SGD,0.126,0.362,0.077,0.713
+False,True,label,True,True,60,Smote,RegresiÃ³n logÃ­stica,0.125,0.357,0.076,0.655
+False,True,label,True,True,60,Smote,SGD,0.126,0.362,0.077,0.714
+False,True,label,True,False,15,Oversampling,Decision Tree,0.276,0.447,0.2,0.476
+False,True,label,True,False,15,Smote,Decision Tree,0.265,0.376,0.204,0.493
+False,True,label,True,False,15,Oversampling,Random forest,0.278,0.453,0.201,0.478
+False,True,label,True,False,15,Smote,Random forest,0.272,0.394,0.208,0.495
+False,True,label,True,False,15,Oversampling,XG Boost,0.295,0.506,0.209,0.472
+False,True,label,True,False,15,Smote,XG Boost,0.293,0.437,0.221,0.49
+False,True,label,True,False,15,Oversampling,RegresiÃ³n logÃ­stica,0.246,0.333,0.196,0.382
+False,True,label,True,False,15,Oversampling,SGD,0.238,0.297,0.198,0.307
+False,True,label,True,False,15,Smote,RegresiÃ³n logÃ­stica,0.248,0.339,0.195,0.38
+False,True,label,True,False,15,Smote,SGD,0.238,0.296,0.199,0.28
+False,True,label,True,False,30,Oversampling,Decision Tree,0.189,0.435,0.121,0.497
+False,True,label,True,False,30,Smote,Decision Tree,0.181,0.329,0.125,0.607
+False,True,label,True,False,30,Oversampling,Random forest,0.189,0.442,0.12,0.498
+False,True,label,True,False,30,Smote,Random forest,0.185,0.344,0.127,0.605
+False,True,label,True,False,30,Oversampling,XG Boost,0.215,0.489,0.138,0.52
+False,True,label,True,False,30,Smote,XG Boost,0.212,0.382,0.147,0.614
+False,True,label,True,False,30,Oversampling,RegresiÃ³n logÃ­stica,0.188,0.424,0.121,0.403
+False,True,label,True,False,30,Oversampling,SGD,0.195,0.333,0.138,0.486
+False,True,label,True,False,30,Smote,RegresiÃ³n logÃ­stica,0.187,0.43,0.119,0.389
+False,True,label,True,False,30,Smote,SGD,0.19,0.409,0.124,0.261
+False,True,label,True,False,60,Oversampling,Decision Tree,0.113,0.472,0.064,0.663
+False,True,label,True,False,60,Smote,Decision Tree,0.107,0.283,0.066,0.81
+False,True,label,True,False,60,Oversampling,Random forest,0.113,0.466,0.064,0.667
+False,True,label,True,False,60,Smote,Random forest,0.108,0.284,0.066,0.812
+False,True,label,True,False,60,Oversampling,XG Boost,0.129,0.496,0.074,0.686
+False,True,label,True,False,60,Smote,XG Boost,0.14,0.322,0.089,0.839
+False,True,label,True,False,60,Oversampling,RegresiÃ³n logÃ­stica,0.125,0.335,0.077,0.634
+False,True,label,True,False,60,Oversampling,SGD,0.126,0.341,0.077,0.613
+False,True,label,True,False,60,Smote,RegresiÃ³n logÃ­stica,0.124,0.342,0.076,0.625
+False,True,label,True,False,60,Smote,SGD,0.126,0.34,0.077,0.566
+False,True,label,False,True,15,Oversampling,Decision Tree,0.264,0.449,0.187,0.468
+False,True,label,False,True,15,Smote,Decision Tree,0.249,0.386,0.184,0.48
+False,True,label,False,True,15,Oversampling,Random forest,0.264,0.456,0.186,0.466
+False,True,label,False,True,15,Smote,Random forest,0.251,0.398,0.183,0.478
+False,True,label,False,True,15,Oversampling,XG Boost,0.28,0.496,0.195,0.466
+False,True,label,False,True,15,Smote,XG Boost,0.271,0.444,0.195,0.478
+False,True,label,False,True,15,Oversampling,RegresiÃ³n logÃ­stica,0.243,0.36,0.183,0.368
+False,True,label,False,True,15,Oversampling,SGD,0.204,0.902,0.115,0.151
+False,True,label,False,True,15,Smote,RegresiÃ³n logÃ­stica,0.242,0.367,0.181,0.366
+False,True,label,False,True,15,Smote,SGD,0.204,0.939,0.114,0.145
+False,True,label,False,True,30,Oversampling,Decision Tree,0.182,0.452,0.114,0.498
+False,True,label,False,True,30,Smote,Decision Tree,0.175,0.354,0.116,0.6
+False,True,label,False,True,30,Oversampling,Random forest,0.18,0.454,0.112,0.496
+False,True,label,False,True,30,Smote,Random forest,0.176,0.361,0.117,0.599
+False,True,label,False,True,30,Oversampling,XG Boost,0.194,0.482,0.121,0.5
+False,True,label,False,True,30,Smote,XG Boost,0.2,0.398,0.134,0.601
+False,True,label,False,True,30,Oversampling,RegresiÃ³n logÃ­stica,0.19,0.442,0.121,0.378
+False,True,label,False,True,30,Oversampling,SGD,0.175,0.511,0.106,0.062
+False,True,label,False,True,30,Smote,RegresiÃ³n logÃ­stica,0.189,0.441,0.121,0.375
+False,True,label,False,True,30,Smote,SGD,0.161,0.569,0.094,0.078
+False,True,label,False,True,60,Oversampling,Decision Tree,0.106,0.484,0.06,0.657
+False,True,label,False,True,60,Smote,Decision Tree,0.101,0.29,0.061,0.806
+False,True,label,False,True,60,Oversampling,Random forest,0.106,0.487,0.06,0.655
+False,True,label,False,True,60,Smote,Random forest,0.103,0.298,0.062,0.804
+False,True,label,False,True,60,Oversampling,XG Boost,0.12,0.532,0.068,0.663
+False,True,label,False,True,60,Smote,XG Boost,0.12,0.317,0.074,0.823
+False,True,label,False,True,60,Oversampling,RegresiÃ³n logÃ­stica,0.126,0.359,0.076,0.657
+False,True,label,False,True,60,Oversampling,SGD,0.126,0.362,0.077,0.713
+False,True,label,False,True,60,Smote,RegresiÃ³n logÃ­stica,0.125,0.357,0.076,0.655
+False,True,label,False,True,60,Smote,SGD,0.126,0.362,0.077,0.714
+False,True,label,False,False,15,Oversampling,Decision Tree,0.276,0.438,0.202,0.478
+False,True,label,False,False,15,Smote,Decision Tree,0.265,0.376,0.204,0.493
+False,True,label,False,False,15,Oversampling,Random forest,0.276,0.44,0.201,0.477
+False,True,label,False,False,15,Smote,Random forest,0.272,0.394,0.208,0.495
+False,True,label,False,False,15,Oversampling,XG Boost,0.298,0.499,0.213,0.476
+False,True,label,False,False,15,Smote,XG Boost,0.293,0.437,0.221,0.49
+False,True,label,False,False,15,Oversampling,RegresiÃ³n logÃ­stica,0.247,0.336,0.195,0.382
+False,True,label,False,False,15,Oversampling,SGD,0.242,0.312,0.198,0.28
+False,True,label,False,False,15,Smote,RegresiÃ³n logÃ­stica,0.248,0.339,0.195,0.38
+False,True,label,False,False,15,Smote,SGD,0.238,0.296,0.199,0.28
+False,True,label,False,False,30,Oversampling,Decision Tree,0.183,0.432,0.116,0.489
+False,True,label,False,False,30,Smote,Decision Tree,0.181,0.329,0.125,0.607
+False,True,label,False,False,30,Oversampling,Random forest,0.184,0.436,0.116,0.489
+False,True,label,False,False,30,Smote,Random forest,0.185,0.344,0.127,0.605
+False,True,label,False,False,30,Oversampling,XG Boost,0.212,0.489,0.135,0.519
+False,True,label,False,False,30,Smote,XG Boost,0.212,0.382,0.147,0.614
+False,True,label,False,False,30,Oversampling,RegresiÃ³n logÃ­stica,0.187,0.427,0.12,0.403
+False,True,label,False,False,30,Oversampling,SGD,0.194,0.328,0.138,0.184
+False,True,label,False,False,30,Smote,RegresiÃ³n logÃ­stica,0.187,0.43,0.119,0.389
+False,True,label,False,False,30,Smote,SGD,0.19,0.409,0.124,0.261
+False,True,label,False,False,60,Oversampling,Decision Tree,0.112,0.457,0.064,0.668
+False,True,label,False,False,60,Smote,Decision Tree,0.107,0.283,0.066,0.81
+False,True,label,False,False,60,Oversampling,Random forest,0.112,0.459,0.064,0.669
+False,True,label,False,False,60,Smote,Random forest,0.108,0.284,0.066,0.812
+False,True,label,False,False,60,Oversampling,XG Boost,0.126,0.491,0.072,0.681
+False,True,label,False,False,60,Smote,XG Boost,0.14,0.322,0.089,0.839
+False,True,label,False,False,60,Oversampling,RegresiÃ³n logÃ­stica,0.125,0.337,0.077,0.633
+False,True,label,False,False,60,Oversampling,SGD,0.125,0.341,0.077,0.511
+False,True,label,False,False,60,Smote,RegresiÃ³n logÃ­stica,0.124,0.342,0.076,0.625
+False,True,label,False,False,60,Smote,SGD,0.126,0.34,0.077,0.566
+False,False,target,True,True,15,Oversampling,Decision Tree,0.188,0.188,0.187,0.521
+False,False,target,True,True,15,Smote,Decision Tree,0.19,0.207,0.175,0.51
+False,False,target,True,True,15,Oversampling,Random forest,0.202,0.158,0.28,0.592
+False,False,target,True,True,15,Smote,Random forest,0.191,0.14,0.302,0.602
+False,False,target,True,True,15,Oversampling,XG Boost,0.306,0.482,0.224,0.505
+False,False,target,True,True,15,Smote,XG Boost,0.119,0.068,0.446,0.629
+False,False,target,True,True,15,Oversampling,RegresiÃ³n logÃ­stica,0.264,0.488,0.181,0.428
+False,False,target,True,True,15,Oversampling,SGD,0.268,0.591,0.174,0.324
+False,False,target,True,True,15,Smote,RegresiÃ³n logÃ­stica,0.267,0.493,0.183,0.426
+False,False,target,True,True,15,Smote,SGD,0.256,0.744,0.155,0.302
+False,False,target,True,True,30,Oversampling,Decision Tree,0.147,0.151,0.143,0.828
+False,False,target,True,True,30,Smote,Decision Tree,0.131,0.149,0.117,0.803
+False,False,target,True,True,30,Oversampling,Random forest,0.089,0.055,0.232,0.887
+False,False,target,True,True,30,Smote,Random forest,0.103,0.063,0.279,0.889
+False,False,target,True,True,30,Oversampling,XG Boost,0.225,0.508,0.145,0.601
+False,False,target,True,True,30,Smote,XG Boost,0.044,0.023,0.442,0.899
+False,False,target,True,True,30,Oversampling,RegresiÃ³n logÃ­stica,0.205,0.545,0.126,0.447
+False,False,target,True,True,30,Oversampling,SGD,0.166,0.776,0.093,0.129
+False,False,target,True,True,30,Smote,RegresiÃ³n logÃ­stica,0.198,0.568,0.12,0.417
+False,False,target,True,True,30,Smote,SGD,0.165,0.776,0.092,0.12
+False,False,target,True,True,60,Oversampling,Decision Tree,0.067,0.066,0.068,0.931
+False,False,target,True,True,60,Smote,Decision Tree,0.109,0.127,0.095,0.921
+False,False,target,True,True,60,Oversampling,Random forest,0.024,0.014,0.093,0.958
+False,False,target,True,True,60,Smote,Random forest,0.025,0.014,0.129,0.959
+False,False,target,True,True,60,Oversampling,XG Boost,0.145,0.459,0.086,0.799
+False,False,target,True,True,60,Smote,XG Boost,0.013,0.007,0.3,0.962
+False,False,target,True,True,60,Oversampling,RegresiÃ³n logÃ­stica,0.123,0.46,0.071,0.668
+False,False,target,True,True,60,Oversampling,SGD,0.12,0.444,0.07,0.527
+False,False,target,True,True,60,Smote,RegresiÃ³n logÃ­stica,0.118,0.475,0.067,0.654
+False,False,target,True,True,60,Smote,SGD,0.117,0.476,0.067,0.508
+False,False,target,True,False,15,Oversampling,Decision Tree,0.191,0.195,0.188,0.518
+False,False,target,True,False,15,Smote,Decision Tree,0.198,0.216,0.183,0.512
+False,False,target,True,False,15,Oversampling,Random forest,0.2,0.157,0.275,0.595
+False,False,target,True,False,15,Smote,Random forest,0.19,0.14,0.294,0.606
+False,False,target,True,False,15,Oversampling,XG Boost,0.302,0.478,0.22,0.507
+False,False,target,True,False,15,Smote,XG Boost,0.121,0.069,0.466,0.636
+False,False,target,True,False,15,Oversampling,RegresiÃ³n logÃ­stica,0.267,0.491,0.183,0.437
+False,False,target,True,False,15,Oversampling,SGD,0.258,0.649,0.161,0.321
+False,False,target,True,False,15,Smote,RegresiÃ³n logÃ­stica,0.265,0.506,0.18,0.426
+False,False,target,True,False,15,Smote,SGD,0.264,0.608,0.169,0.35
+False,False,target,True,False,30,Oversampling,Decision Tree,0.15,0.153,0.147,0.828
+False,False,target,True,False,30,Smote,Decision Tree,0.143,0.161,0.128,0.807
+False,False,target,True,False,30,Oversampling,Random forest,0.092,0.058,0.217,0.886
+False,False,target,True,False,30,Smote,Random forest,0.098,0.061,0.251,0.887
+False,False,target,True,False,30,Oversampling,XG Boost,0.236,0.529,0.152,0.602
+False,False,target,True,False,30,Smote,XG Boost,0.051,0.027,0.464,0.899
+False,False,target,True,False,30,Oversampling,RegresiÃ³n logÃ­stica,0.198,0.553,0.121,0.436
+False,False,target,True,False,30,Oversampling,SGD,0.18,0.664,0.104,0.254
+False,False,target,True,False,30,Smote,RegresiÃ³n logÃ­stica,0.194,0.563,0.117,0.417
+False,False,target,True,False,30,Smote,SGD,0.162,0.794,0.09,0.167
+False,False,target,True,False,60,Oversampling,Decision Tree,0.096,0.095,0.097,0.933
+False,False,target,True,False,60,Smote,Decision Tree,0.102,0.125,0.087,0.916
+False,False,target,True,False,60,Oversampling,Random forest,0.057,0.033,0.21,0.959
+False,False,target,True,False,60,Smote,Random forest,0.05,0.029,0.219,0.959
+False,False,target,True,False,60,Oversampling,XG Boost,0.141,0.453,0.083,0.793
+False,False,target,True,False,60,Smote,XG Boost,0.04,0.021,0.643,0.962
+False,False,target,True,False,60,Oversampling,RegresiÃ³n logÃ­stica,0.126,0.462,0.073,0.684
+False,False,target,True,False,60,Oversampling,SGD,0.115,0.528,0.065,0.506
+False,False,target,True,False,60,Smote,RegresiÃ³n logÃ­stica,0.124,0.481,0.071,0.674
+False,False,target,True,False,60,Smote,SGD,0.121,0.513,0.068,0.538
+False,False,target,False,True,15,Oversampling,Decision Tree,0.186,0.191,0.182,0.531
+False,False,target,False,True,15,Smote,Decision Tree,0.194,0.212,0.179,0.524
+False,False,target,False,True,15,Oversampling,Random forest,0.211,0.168,0.283,0.599
+False,False,target,False,True,15,Smote,Random forest,0.195,0.143,0.305,0.613
+False,False,target,False,True,15,Oversampling,XG Boost,0.314,0.497,0.23,0.514
+False,False,target,False,True,15,Smote,XG Boost,0.127,0.073,0.484,0.637
+False,False,target,False,True,15,Oversampling,RegresiÃ³n logÃ­stica,0.268,0.513,0.182,0.424
+False,False,target,False,True,15,Oversampling,SGD,0.263,0.595,0.169,0.378
+False,False,target,False,True,15,Smote,RegresiÃ³n logÃ­stica,0.266,0.514,0.179,0.421
+False,False,target,False,True,15,Smote,SGD,0.257,0.643,0.16,0.356
+False,False,target,False,True,30,Oversampling,Decision Tree,0.145,0.148,0.142,0.828
+False,False,target,False,True,30,Smote,Decision Tree,0.138,0.158,0.122,0.803
+False,False,target,False,True,30,Oversampling,Random forest,0.087,0.055,0.211,0.885
+False,False,target,False,True,30,Smote,Random forest,0.098,0.061,0.257,0.887
+False,False,target,False,True,30,Oversampling,XG Boost,0.222,0.492,0.144,0.61
+False,False,target,False,True,30,Smote,XG Boost,0.034,0.018,0.484,0.899
+False,False,target,False,True,30,Oversampling,RegresiÃ³n logÃ­stica,0.196,0.548,0.119,0.437
+False,False,target,False,True,30,Oversampling,SGD,0.16,0.755,0.089,0.175
+False,False,target,False,True,30,Smote,RegresiÃ³n logÃ­stica,0.197,0.544,0.12,0.441
+False,False,target,False,True,30,Smote,SGD,0.175,0.665,0.101,0.144
+False,False,target,False,True,60,Oversampling,Decision Tree,0.082,0.084,0.08,0.929
+False,False,target,False,True,60,Smote,Decision Tree,0.101,0.123,0.086,0.917
+False,False,target,False,True,60,Oversampling,Random forest,0.037,0.021,0.139,0.958
+False,False,target,False,True,60,Smote,Random forest,0.037,0.021,0.158,0.958
+False,False,target,False,True,60,Oversampling,XG Boost,0.137,0.456,0.081,0.788
+False,False,target,False,True,60,Smote,XG Boost,0.026,0.013,0.444,0.962
+False,False,target,False,True,60,Oversampling,RegresiÃ³n logÃ­stica,0.127,0.506,0.072,0.626
+False,False,target,False,True,60,Oversampling,SGD,0.107,0.578,0.059,0.353
+False,False,target,False,True,60,Smote,RegresiÃ³n logÃ­stica,0.124,0.519,0.07,0.623
+False,False,target,False,True,60,Smote,SGD,0.119,0.507,0.068,0.451
+False,False,target,False,False,15,Oversampling,Decision Tree,0.205,0.211,0.199,0.528
+False,False,target,False,False,15,Smote,Decision Tree,0.206,0.227,0.189,0.521
+False,False,target,False,False,15,Oversampling,Random forest,0.231,0.185,0.307,0.596
+False,False,target,False,False,15,Smote,Random forest,0.226,0.168,0.345,0.611
+False,False,target,False,False,15,Oversampling,XG Boost,0.321,0.497,0.237,0.512
+False,False,target,False,False,15,Smote,XG Boost,0.153,0.09,0.518,0.636
+False,False,target,False,False,15,Oversampling,RegresiÃ³n logÃ­stica,0.284,0.518,0.196,0.437
+False,False,target,False,False,15,Oversampling,SGD,0.242,0.86,0.141,0.276
+False,False,target,False,False,15,Smote,RegresiÃ³n logÃ­stica,0.282,0.528,0.193,0.432
+False,False,target,False,False,15,Smote,SGD,0.242,0.852,0.141,0.278
+False,False,target,False,False,30,Oversampling,Decision Tree,0.168,0.176,0.162,0.823
+False,False,target,False,False,30,Smote,Decision Tree,0.162,0.187,0.144,0.799
+False,False,target,False,False,30,Oversampling,Random forest,0.135,0.087,0.3,0.884
+False,False,target,False,False,30,Smote,Random forest,0.145,0.094,0.324,0.885
+False,False,target,False,False,30,Oversampling,XG Boost,0.238,0.496,0.157,0.62
+False,False,target,False,False,30,Smote,XG Boost,0.092,0.05,0.573,0.896
+False,False,target,False,False,30,Oversampling,RegresiÃ³n logÃ­stica,0.204,0.524,0.127,0.452
+False,False,target,False,False,30,Oversampling,SGD,0.173,0.692,0.099,0.148
+False,False,target,False,False,30,Smote,RegresiÃ³n logÃ­stica,0.2,0.531,0.123,0.436
+False,False,target,False,False,30,Smote,SGD,0.171,0.711,0.097,0.153
+False,False,target,False,False,60,Oversampling,Decision Tree,0.116,0.115,0.117,0.929
+False,False,target,False,False,60,Smote,Decision Tree,0.132,0.159,0.112,0.914
+False,False,target,False,False,60,Oversampling,Random forest,0.084,0.05,0.268,0.956
+False,False,target,False,False,60,Smote,Random forest,0.101,0.06,0.32,0.957
+False,False,target,False,False,60,Oversampling,XG Boost,0.162,0.516,0.096,0.789
+False,False,target,False,False,60,Smote,XG Boost,0.084,0.046,0.537,0.959
+False,False,target,False,False,60,Oversampling,RegresiÃ³n logÃ­stica,0.132,0.47,0.077,0.651
+False,False,target,False,False,60,Oversampling,SGD,0.118,0.517,0.067,0.35
+False,False,target,False,False,60,Smote,RegresiÃ³n logÃ­stica,0.127,0.48,0.073,0.651
+False,False,target,False,False,60,Smote,SGD,0.133,0.379,0.081,0.511
+False,False,label,True,True,15,Oversampling,Decision Tree,0.183,0.183,0.182,0.516
+False,False,label,True,True,15,Smote,Decision Tree,0.19,0.207,0.175,0.508
+False,False,label,True,True,15,Oversampling,Random forest,0.199,0.155,0.277,0.587
+False,False,label,True,True,15,Smote,Random forest,0.197,0.147,0.297,0.596
+False,False,label,True,True,15,Oversampling,XG Boost,0.303,0.487,0.22,0.502
+False,False,label,True,True,15,Smote,XG Boost,0.109,0.062,0.431,0.63
+False,False,label,True,True,15,Oversampling,RegresiÃ³n logÃ­stica,0.254,0.444,0.178,0.414
+False,False,label,True,True,15,Oversampling,SGD,0.225,0.741,0.133,0.278
+False,False,label,True,True,15,Smote,RegresiÃ³n logÃ­stica,0.256,0.464,0.176,0.406
+False,False,label,True,True,15,Smote,SGD,0.232,0.53,0.148,0.396
+False,False,label,True,True,30,Oversampling,Decision Tree,0.133,0.137,0.129,0.824
+False,False,label,True,True,30,Smote,Decision Tree,0.149,0.175,0.13,0.803
+False,False,label,True,True,30,Oversampling,Random forest,0.086,0.054,0.2,0.884
+False,False,label,True,True,30,Smote,Random forest,0.102,0.065,0.235,0.885
+False,False,label,True,True,30,Oversampling,XG Boost,0.225,0.513,0.144,0.592
+False,False,label,True,True,30,Smote,XG Boost,0.045,0.024,0.398,0.897
+False,False,label,True,True,30,Oversampling,RegresiÃ³n logÃ­stica,0.199,0.493,0.125,0.418
+False,False,label,True,True,30,Oversampling,SGD,0.165,0.716,0.094,0.113
+False,False,label,True,True,30,Smote,RegresiÃ³n logÃ­stica,0.19,0.496,0.117,0.4
+False,False,label,True,True,30,Smote,SGD,0.164,0.719,0.092,0.114
+False,False,label,True,True,60,Oversampling,Decision Tree,0.098,0.097,0.099,0.933
+False,False,label,True,True,60,Smote,Decision Tree,0.079,0.092,0.069,0.919
+False,False,label,True,True,60,Oversampling,Random forest,0.024,0.014,0.087,0.957
+False,False,label,True,True,60,Smote,Random forest,0.035,0.021,0.114,0.957
+False,False,label,True,True,60,Oversampling,XG Boost,0.14,0.434,0.084,0.802
+False,False,label,True,True,60,Smote,XG Boost,0.016,0.008,0.318,0.962
+False,False,label,True,True,60,Oversampling,RegresiÃ³n logÃ­stica,0.124,0.384,0.074,0.657
+False,False,label,True,True,60,Oversampling,SGD,0.125,0.348,0.076,0.624
+False,False,label,True,True,60,Smote,RegresiÃ³n logÃ­stica,0.121,0.4,0.071,0.659
+False,False,label,True,True,60,Smote,SGD,0.122,0.352,0.074,0.667
+False,False,label,True,False,15,Oversampling,Decision Tree,0.18,0.186,0.174,0.513
+False,False,label,True,False,15,Smote,Decision Tree,0.202,0.225,0.182,0.515
+False,False,label,True,False,15,Oversampling,Random forest,0.206,0.165,0.274,0.592
+False,False,label,True,False,15,Smote,Random forest,0.19,0.144,0.277,0.601
+False,False,label,True,False,15,Oversampling,XG Boost,0.311,0.495,0.227,0.512
+False,False,label,True,False,15,Smote,XG Boost,0.115,0.066,0.461,0.637
+False,False,label,True,False,15,Oversampling,RegresiÃ³n logÃ­stica,0.257,0.461,0.178,0.413
+False,False,label,True,False,15,Oversampling,SGD,0.246,0.402,0.177,0.332
+False,False,label,True,False,15,Smote,RegresiÃ³n logÃ­stica,0.259,0.474,0.178,0.408
+False,False,label,True,False,15,Smote,SGD,0.249,0.419,0.177,0.332
+False,False,label,True,False,30,Oversampling,Decision Tree,0.132,0.136,0.128,0.823
+False,False,label,True,False,30,Smote,Decision Tree,0.149,0.175,0.13,0.805
+False,False,label,True,False,30,Oversampling,Random forest,0.098,0.064,0.214,0.884
+False,False,label,True,False,30,Smote,Random forest,0.112,0.072,0.249,0.885
+False,False,label,True,False,30,Oversampling,XG Boost,0.226,0.508,0.146,0.597
+False,False,label,True,False,30,Smote,XG Boost,0.052,0.028,0.383,0.896
+False,False,label,True,False,30,Oversampling,RegresiÃ³n logÃ­stica,0.192,0.484,0.12,0.412
+False,False,label,True,False,30,Oversampling,SGD,0.174,0.618,0.101,0.112
+False,False,label,True,False,30,Smote,RegresiÃ³n logÃ­stica,0.188,0.488,0.116,0.398
+False,False,label,True,False,30,Smote,SGD,0.18,0.589,0.106,0.123
+False,False,label,True,False,60,Oversampling,Decision Tree,0.1,0.101,0.098,0.931
+False,False,label,True,False,60,Smote,Decision Tree,0.094,0.113,0.081,0.918
+False,False,label,True,False,60,Oversampling,Random forest,0.041,0.024,0.137,0.957
+False,False,label,True,False,60,Smote,Random forest,0.065,0.039,0.204,0.958
+False,False,label,True,False,60,Oversampling,XG Boost,0.146,0.462,0.087,0.798
+False,False,label,True,False,60,Smote,XG Boost,0.027,0.014,0.545,0.961
+False,False,label,True,False,60,Oversampling,RegresiÃ³n logÃ­stica,0.128,0.395,0.076,0.66
+False,False,label,True,False,60,Oversampling,SGD,0.132,0.356,0.081,0.557
+False,False,label,True,False,60,Smote,RegresiÃ³n logÃ­stica,0.119,0.416,0.07,0.648
+False,False,label,True,False,60,Smote,SGD,0.127,0.355,0.077,0.662
+False,False,label,False,True,15,Oversampling,Decision Tree,0.184,0.186,0.181,0.526
+False,False,label,False,True,15,Smote,Decision Tree,0.177,0.192,0.164,0.518
+False,False,label,False,True,15,Oversampling,Random forest,0.211,0.171,0.276,0.596
+False,False,label,False,True,15,Smote,Random forest,0.196,0.15,0.282,0.604
+False,False,label,False,True,15,Oversampling,XG Boost,0.306,0.491,0.222,0.511
+False,False,label,False,True,15,Smote,XG Boost,0.106,0.06,0.443,0.637
+False,False,label,False,True,15,Oversampling,RegresiÃ³n logÃ­stica,0.258,0.459,0.179,0.41
+False,False,label,False,True,15,Oversampling,SGD,0.251,0.386,0.186,0.442
+False,False,label,False,True,15,Smote,RegresiÃ³n logÃ­stica,0.256,0.47,0.176,0.403
+False,False,label,False,True,15,Smote,SGD,0.255,0.427,0.182,0.408
+False,False,label,False,True,30,Oversampling,Decision Tree,0.135,0.137,0.133,0.828
+False,False,label,False,True,30,Smote,Decision Tree,0.145,0.168,0.127,0.806
+False,False,label,False,True,30,Oversampling,Random forest,0.1,0.065,0.215,0.883
+False,False,label,False,True,30,Smote,Random forest,0.122,0.081,0.254,0.883
+False,False,label,False,True,30,Oversampling,XG Boost,0.223,0.496,0.144,0.608
+False,False,label,False,True,30,Smote,XG Boost,0.049,0.026,0.395,0.896
+False,False,label,False,True,30,Oversampling,RegresiÃ³n logÃ­stica,0.194,0.463,0.123,0.439
+False,False,label,False,True,30,Oversampling,SGD,0.193,0.441,0.124,0.369
+False,False,label,False,True,30,Smote,RegresiÃ³n logÃ­stica,0.189,0.466,0.119,0.432
+False,False,label,False,True,30,Smote,SGD,0.176,0.558,0.104,0.274
+False,False,label,False,True,60,Oversampling,Decision Tree,0.088,0.087,0.088,0.932
+False,False,label,False,True,60,Smote,Decision Tree,0.101,0.123,0.086,0.918
+False,False,label,False,True,60,Oversampling,Random forest,0.037,0.021,0.133,0.958
+False,False,label,False,True,60,Smote,Random forest,0.076,0.046,0.223,0.958
+False,False,label,False,True,60,Oversampling,XG Boost,0.138,0.444,0.081,0.793
+False,False,label,False,True,60,Smote,XG Boost,0.013,0.007,0.5,0.962
+False,False,label,False,True,60,Oversampling,RegresiÃ³n logÃ­stica,0.123,0.449,0.071,0.636
+False,False,label,False,True,60,Oversampling,SGD,0.122,0.415,0.071,0.599
+False,False,label,False,True,60,Smote,RegresiÃ³n logÃ­stica,0.12,0.474,0.069,0.633
+False,False,label,False,True,60,Smote,SGD,0.127,0.378,0.076,0.703
+False,False,label,False,False,15,Oversampling,Decision Tree,0.208,0.218,0.199,0.52
+False,False,label,False,False,15,Smote,Decision Tree,0.215,0.236,0.198,0.519
+False,False,label,False,False,15,Oversampling,Random forest,0.239,0.197,0.306,0.596
+False,False,label,False,False,15,Smote,Random forest,0.234,0.182,0.326,0.604
+False,False,label,False,False,15,Oversampling,XG Boost,0.326,0.52,0.241,0.514
+False,False,label,False,False,15,Smote,XG Boost,0.139,0.08,0.524,0.637
+False,False,label,False,False,15,Oversampling,RegresiÃ³n logÃ­stica,0.261,0.448,0.184,0.419
+False,False,label,False,False,15,Oversampling,SGD,0.251,0.563,0.161,0.323
+False,False,label,False,False,15,Smote,RegresiÃ³n logÃ­stica,0.263,0.447,0.186,0.42
+False,False,label,False,False,15,Smote,SGD,0.167,0.145,0.196,0.375
+False,False,label,False,False,30,Oversampling,Decision Tree,0.156,0.156,0.156,0.827
+False,False,label,False,False,30,Smote,Decision Tree,0.163,0.19,0.142,0.799
+False,False,label,False,False,30,Oversampling,Random forest,0.144,0.095,0.295,0.882
+False,False,label,False,False,30,Smote,Random forest,0.161,0.109,0.315,0.882
+False,False,label,False,False,30,Oversampling,XG Boost,0.244,0.508,0.16,0.612
+False,False,label,False,False,30,Smote,XG Boost,0.101,0.056,0.493,0.893
+False,False,label,False,False,30,Oversampling,RegresiÃ³n logÃ­stica,0.189,0.46,0.119,0.437
+False,False,label,False,False,30,Oversampling,SGD,0.173,0.575,0.102,0.136
+False,False,label,False,False,30,Smote,RegresiÃ³n logÃ­stica,0.188,0.473,0.117,0.427
+False,False,label,False,False,30,Smote,SGD,0.166,0.627,0.095,0.139
+False,False,label,False,False,60,Oversampling,Decision Tree,0.131,0.131,0.131,0.93
+False,False,label,False,False,60,Smote,Decision Tree,0.132,0.163,0.111,0.914
+False,False,label,False,False,60,Oversampling,Random forest,0.104,0.064,0.265,0.955
+False,False,label,False,False,60,Smote,Random forest,0.107,0.069,0.247,0.954
+False,False,label,False,False,60,Oversampling,XG Boost,0.166,0.496,0.1,0.8
+False,False,label,False,False,60,Smote,XG Boost,0.075,0.041,0.52,0.959
+False,False,label,False,False,60,Oversampling,RegresiÃ³n logÃ­stica,0.115,0.436,0.066,0.62
+False,False,label,False,False,60,Oversampling,SGD,0.131,0.373,0.08,0.642
+False,False,label,False,False,60,Smote,RegresiÃ³n logÃ­stica,0.114,0.455,0.065,0.617
+False,False,label,False,False,60,Smote,SGD,0.128,0.359,0.078,0.648
