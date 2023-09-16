@@ -933,7 +933,7 @@ False,False,label,False,False,15,Oversampling,Decision Tree,0.208,0.218,0.199,0.
 False,False,label,False,False,15,Smote,Decision Tree,0.215,0.236,0.198,0.519
 False,False,label,False,False,15,Oversampling,Random forest,0.239,0.197,0.306,0.596
 False,False,label,False,False,15,Smote,Random forest,0.234,0.182,0.326,0.604
-False,False,label,False,False,15,Oversampling,XG Boost,0.33,0.52,0.241,0.514
+False,False,label,False,False,15,Oversampling,XG Boost,0.326,0.52,0.241,0.514
 False,False,label,False,False,15,Smote,XG Boost,0.139,0.08,0.524,0.637
 False,False,label,False,False,15,Oversampling,RegresiÃ³n logÃ­stica,0.261,0.448,0.184,0.419
 False,False,label,False,False,15,Oversampling,SGD,0.251,0.563,0.161,0.323
